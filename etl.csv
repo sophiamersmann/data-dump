@@ -1,0 +1,2351 @@
+date,author,num_commits,num_lines_added,num_lines_removed
+2021-09-17,Lars Yencken,6,1409,17
+2021-09-20,Lars Yencken,1,379,40
+2021-09-21,Lars Yencken,3,624,154
+2021-09-22,Daniel Bachler,3,14864,637
+2021-09-22,Lars Yencken,7,1224,804
+2021-09-23,Lars Yencken,14,175,42
+2021-09-24,Lars Yencken,9,9869,939
+2021-09-25,Lars Yencken,1,4,0
+2021-09-27,Lars Yencken,1,116,151
+2021-09-29,Daniel Bachler,2,1405,1181
+2021-09-29,Lars Yencken,1,76,10
+2021-09-30,Daniel Bachler,8,441,96
+2021-09-30,Lars Yencken,2,213,78
+2021-10-01,Daniel Bachler,2,1262,112
+2021-10-01,Lars Yencken,11,1179,340
+2021-10-04,Daniel Bachler,1,982,213
+2021-10-04,Lars Yencken,8,817,183
+2021-10-05,Daniel Bachler,3,103,30
+2021-10-05,Lars Yencken,8,35,13
+2021-10-06,Daniel Bachler,1,174,59
+2021-10-07,Daniel Bachler,1,179,117
+2021-10-08,Daniel Bachler,1,41,31
+2021-10-08,Lars Yencken,4,1452,703
+2021-10-09,Lars Yencken,2,224,59
+2021-10-11,Daniel Bachler,2,7,35
+2021-10-11,Lars Yencken,3,113,76
+2021-10-12,Lars Yencken,9,805,556
+2021-10-13,Lars Yencken,8,176,34
+2021-10-14,Lars Yencken,2,111,22
+2021-10-15,Lars Yencken,4,951,34
+2021-10-17,Lars Yencken,2,45,34
+2021-10-19,Lars Yencken,5,261,60
+2021-10-20,Lars Yencken,3,195,2
+2021-10-22,Lars Yencken,6,130,74
+2021-10-25,Lars Yencken,5,39,6
+2021-10-26,Lars Yencken,9,29,19
+2021-10-27,Lars Yencken,3,7,1
+2021-10-28,Lars Yencken,1,1,1
+2021-10-28,lucas rg,1,1,1
+2021-10-29,Lars Yencken,2,106,15
+2021-10-29,lucas rg,2,730,3
+2021-10-31,Lars Yencken,9,190,365
+2021-11-01,Lars Yencken,2,52,16
+2021-11-01,lucas rg,4,1069,90
+2021-11-02,Lars Yencken,2,12,10
+2021-11-04,Lars Yencken,3,5,4
+2021-11-04,lucas rg,5,1883,682
+2021-11-05,Bobbie Macdonald,2,902,117
+2021-11-05,Lars Yencken,2,4,2
+2021-11-08,lucas rg,2,528,686
+2021-11-09,Lars Yencken,3,5,4
+2021-11-09,lucas rg,1,331,165
+2021-11-10,Lars Yencken,2,672,335
+2021-11-11,Daniel Bachler,1,23,0
+2021-11-11,Fiona Spooner,1,634,0
+2021-11-11,Lars Yencken,8,577,77
+2021-11-12,Fiona Spooner,2,37,35
+2021-11-12,Lars Yencken,1,5,1
+2021-11-12,lucas rg,11,1371,115
+2021-11-16,Lars Yencken,4,305,57
+2021-11-16,Marcel Gerber,1,5,5
+2021-11-16,lucas rg,1,1414,366
+2021-11-17,Fiona Spooner,3,46630,44891
+2021-11-17,lucas rg,9,1891,357
+2021-11-18,Fiona Spooner,2,937,390
+2021-11-18,lucas rg,2,787,344
+2021-11-19,Fiona Spooner,4,469,630
+2021-11-19,lucas rg,4,1463,1187
+2021-11-20,lucas rg,1,13,5
+2021-11-22,Fiona Spooner,8,1117,11
+2021-11-23,Fiona Spooner,4,2864,34
+2021-11-25,lucas rg,1,3,3
+2021-11-26,Marcel Gerber,3,40,40
+2021-11-29,lucas rg,1,283,0
+2021-11-30,lucas rg,1,628,23
+2021-12-01,lucas rg,3,250,2
+2021-12-03,lucas rg,5,633,469
+2021-12-06,lucas rg,2,807,80
+2021-12-07,Marcel Gerber,1,1,0
+2021-12-07,lucas rg,1,301,234
+2021-12-08,lucas rg,6,324,250
+2021-12-13,lucas rg,13,685,412
+2021-12-14,Lars Yencken,1,1,4
+2021-12-14,Marcel Gerber,1,4,0
+2021-12-16,lucas rg,2,231,76
+2022-01-25,Lars Yencken,2,7,3
+2022-01-26,Fiona Spooner,3,52,1118
+2022-01-27,Lars Yencken,1,1,1
+2022-01-31,Lars Yencken,2,22,1
+2022-01-31,Marigold,1,7,0
+2022-02-01,Lars Yencken,2,129,54
+2022-02-01,Marigold,2,10,3
+2022-02-02,Lars Yencken,1,59,58
+2022-02-08,Lars Yencken,1,76,0
+2022-02-10,Lars Yencken,7,687,3674
+2022-02-15,Lars Yencken,2,34,40
+2022-02-16,Marigold,1,16,23
+2022-02-16,lucasrodes,4,2657,284
+2022-02-18,lucasrodes,2,68,50
+2022-02-22,Marigold,1,836,526
+2022-02-23,Lars Yencken,2,13,2
+2022-02-24,Lars Yencken,1,0,4
+2022-02-24,Pablo Rosado,2,2,1
+2022-02-25,Lars Yencken,5,994,3071
+2022-02-26,Marigold,1,253,44
+2022-02-28,Lars Yencken,3,118,419
+2022-02-28,Marigold,1,5091,3362
+2022-02-28,Pablo Rosado,3,744,79
+2022-03-01,Lars Yencken,1,19,12
+2022-03-01,Marigold,1,1,1
+2022-03-02,Lars Yencken,1,61,355
+2022-03-02,Marigold,2,173,1903
+2022-03-07,Marigold,4,121,95
+2022-03-09,Marigold,1,33,0
+2022-03-10,GitHub Action,1,1,1
+2022-03-10,GitHub Action - triggered from walden,1,1,1
+2022-03-11,GitHub Action,1,1,1
+2022-03-11,Marigold,1,30,31
+2022-03-15,Marigold,4,76,9
+2022-03-15,Pablo Rosado,2,23,23
+2022-03-16,Marigold,1,120,1795
+2022-03-16,Pablo Rosado,1,4,4
+2022-03-16,lucasrodes,1,1841,131
+2022-03-17,Marigold,2,7,4
+2022-03-17,Pablo Rosado,5,464,45
+2022-03-18,GitHub Action,2,2,2
+2022-03-18,Pablo Rosado,6,93,64
+2022-03-20,Marigold,1,3797,11872
+2022-03-21,Marigold,2,50,21
+2022-03-21,Pablo Rosado,3,3,2
+2022-03-22,GitHub Action,1,1,1
+2022-03-22,Mojmir Vinkler,1,88,39
+2022-03-22,Pablo Rosado,3,4,7
+2022-03-23,GitHub Action,1,1,1
+2022-03-23,Lars Yencken,1,2,2
+2022-03-23,Marcel Gerber,1,30,76
+2022-03-23,lucasrodes,2,2881,3355
+2022-03-24,Pablo Rosado,1,4,4
+2022-03-24,lucasrodes,2,60,23
+2022-03-25,Marigold,1,2,2
+2022-03-28,Mojmir Vinkler,1,81,63
+2022-03-29,GitHub Action,1,1,1
+2022-03-29,Mojmir Vinkler,2,8,4
+2022-03-29,lucasrodes,3,391,128
+2022-03-31,Daniel Bachler,1,5,0
+2022-04-04,GitHub Action,2,3,3
+2022-04-04,Marcel Gerber,1,44,1
+2022-04-04,Mojmir Vinkler,1,880,22
+2022-04-05,GitHub Action,1,1,1
+2022-04-05,Marcel Gerber,1,2,2
+2022-04-05,lucasrodes,4,30,40
+2022-04-06,GitHub Action,1,1,1
+2022-04-06,Pablo Rosado,1,26,25
+2022-04-11,Mojmir Vinkler,2,210,48
+2022-04-12,GitHub Action,2,2,2
+2022-04-12,Marcel Gerber,1,0,7
+2022-04-12,Pablo Rosado,3,10,8
+2022-04-13,Pablo Rosado,1,1,1
+2022-04-19,Marigold,1,58,18
+2022-04-25,Mojmir Vinkler,1,126,390
+2022-04-26,GitHub Action,3,4,4
+2022-04-26,Mojmir Vinkler,2,96,80
+2022-04-26,Pablo Rosado,1,127,0
+2022-04-27,GitHub Action,1,1,1
+2022-04-27,Pablo Rosado,2,89,5
+2022-04-28,Mojmir Vinkler,1,53,7
+2022-04-28,Pablo Rosado,3,106,12
+2022-04-29,GitHub Action,1,1,1
+2022-04-29,Pablo Rosado,1,18,1
+2022-05-02,GitHub Action,1,1,1
+2022-05-02,Mojmir Vinkler,1,23,11
+2022-05-02,Pablo Rosado,1,15,3
+2022-05-03,GitHub Action,1,1,1
+2022-05-03,Mojmir Vinkler,1,119,913
+2022-05-03,Pablo Rosado,6,297,108
+2022-05-04,Mojmir Vinkler,2,254,127
+2022-05-04,Pablo Rosado,2,370,247
+2022-05-05,Pablo Rosado,7,593,270
+2022-05-06,Pablo Rosado,18,2221,242
+2022-05-09,Pablo Rosado,8,496,167
+2022-05-11,Mojmir Vinkler,1,35,3
+2022-05-11,Pablo Rosado,4,151,139
+2022-05-12,Lars Yencken,1,7,2
+2022-05-12,Mojmir Vinkler,1,34,22
+2022-05-13,Pablo Rosado,6,1000,923
+2022-05-16,Pablo Rosado,3,149,60
+2022-05-17,Pablo Rosado,1,57,101
+2022-05-18,GitHub Action,1,2,2
+2022-05-18,Pablo Rosado,7,346,1210
+2022-05-20,GitHub Action,1,1,1
+2022-05-20,Pablo Rosado,9,495,167
+2022-05-23,Pablo Rosado,4,1108,873
+2022-05-24,Billy Cox,1,250,224
+2022-05-25,GitHub Action,1,1,1
+2022-05-25,Pablo Rosado,3,228,222
+2022-05-26,Mojmir Vinkler,2,398,184
+2022-05-27,Billy Cox,1,36,6
+2022-05-27,GitHub Action,4,5,5
+2022-05-27,Pablo Rosado,2,94,41
+2022-05-28,GitHub Action,2,2,2
+2022-05-31,Pablo Rosado,4,1799,215
+2022-06-01,Pablo Rosado,4,263,141
+2022-06-02,Pablo Rosado,3,317,361
+2022-06-03,Bobbie Macdonald,5,2721,23
+2022-06-03,GitHub Action,2,3,3
+2022-06-03,Pablo Rosado,3,545,1250
+2022-06-06,Bobbie Macdonald,1,0,5
+2022-06-06,Marigold,1,107,27
+2022-06-06,Mojmir Vinkler,1,2,1
+2022-06-06,Pablo Rosado,3,275,17
+2022-06-07,GitHub Action,2,3,3
+2022-06-07,Pablo Rosado,6,85,38
+2022-06-08,Bobbie Macdonald,2,2,2
+2022-06-08,Marigold,2,23,16
+2022-06-08,Mojmir Vinkler,1,6,4
+2022-06-08,Pablo Rosado,2,75,15
+2022-06-09,GitHub Action,3,3,3
+2022-06-09,Mojmir Vinkler,1,9,3
+2022-06-09,Pablo Rosado,3,138,59
+2022-06-10,GitHub Action,2,2,2
+2022-06-13,Pablo Rosado,5,170,130
+2022-06-14,Pablo Rosado,6,539,576
+2022-06-15,GitHub Action,1,1,1
+2022-06-15,Mojmir Vinkler,2,682,12
+2022-06-15,Pablo Rosado,4,206,43
+2022-06-16,Billy Cox,1,14,5
+2022-06-16,GitHub Action,4,4,4
+2022-06-16,Mojmir Vinkler,1,11,2
+2022-06-16,Pablo Rosado,2,70,88
+2022-06-17,Billy Cox,1,36,15
+2022-06-17,GitHub Action,2,2,2
+2022-06-17,Mojmir Vinkler,2,256,34
+2022-06-17,Pablo Rosado,1,1,1
+2022-06-17,lucasrodes,7,75,105
+2022-06-20,GitHub Action,4,5,5
+2022-06-20,Mojmir Vinkler,1,22,30
+2022-06-20,Pablo Rosado,5,287,170
+2022-06-21,GitHub Action,5,5,5
+2022-06-21,Marigold,1,55,29
+2022-06-21,Mojmir Vinkler,2,49,56
+2022-06-21,Pablo Rosado,7,173,111
+2022-06-22,GitHub Action,5,5,5
+2022-06-22,Marigold,2,88,77
+2022-06-22,Pablo Rosado,2,63,50
+2022-06-22,lucasrodes,1,3,2
+2022-06-23,Billy Cox,1,71,96
+2022-06-23,GitHub Action,8,8,8
+2022-06-23,Marigold,2,1516,2643
+2022-06-23,Pablo Rosado,7,239,231
+2022-06-23,William Cox,2,48,48
+2022-06-24,GitHub Action,4,4,4
+2022-06-24,Lars Yencken,1,8,0
+2022-06-24,Pablo Rosado,5,692,776
+2022-06-25,GitHub Action,4,4,4
+2022-06-26,GitHub Action,4,4,4
+2022-06-27,Billy Cox,1,45,26
+2022-06-27,GitHub Action,8,8,8
+2022-06-27,Pablo Rosado,2,48,42
+2022-06-28,GitHub Action,9,10,10
+2022-06-28,Mojmir Vinkler,3,270,40
+2022-06-28,Pablo Rosado,7,281,73
+2022-06-29,GitHub Action,5,6,6
+2022-06-29,Marigold,1,9,6
+2022-06-29,Pablo Rosado,5,329,137
+2022-06-30,Fiona Spooner,1,280,0
+2022-06-30,GitHub Action,7,8,8
+2022-06-30,Mojmir Vinkler,1,144,7
+2022-06-30,Pablo Rosado,7,478,177
+2022-07-01,Fiona Spooner,1,231,172
+2022-07-01,GitHub Action,4,5,5
+2022-07-01,Mojmir Vinkler,1,7,2
+2022-07-01,Pablo Rosado,8,501,191
+2022-07-02,GitHub Action,4,4,4
+2022-07-03,GitHub Action,5,5,5
+2022-07-04,Billy Cox,1,9,1
+2022-07-04,Fiona Spooner,2,80,39
+2022-07-04,GitHub Action,6,6,6
+2022-07-04,Pablo Rosado,6,1828,817
+2022-07-05,GitHub Action,5,5,5
+2022-07-05,Marigold,2,2207,232
+2022-07-05,Mojmir Vinkler,3,390,368
+2022-07-05,Pablo Rosado,6,632,111
+2022-07-06,Fiona Spooner,2,263,151
+2022-07-06,GitHub Action,5,6,6
+2022-07-06,Pablo Rosado,4,55,12
+2022-07-07,Edouard Mathieu,1,4,4
+2022-07-07,Fiona Spooner,5,15,281
+2022-07-07,GitHub Action,4,4,4
+2022-07-07,Pablo Rosado,2,24,24
+2022-07-08,Daniel Bachler,1,735,27
+2022-07-08,GitHub Action,4,4,4
+2022-07-09,GitHub Action,1,1,1
+2022-07-10,GitHub Action,2,2,2
+2022-07-11,Daniel Bachler,3,184,77
+2022-07-11,GitHub Action,7,7,7
+2022-07-11,Marigold,1,13,12
+2022-07-11,Mojmir Vinkler,1,4,1
+2022-07-12,Fiona Spooner,1,291,0
+2022-07-12,GitHub Action,7,7,7
+2022-07-13,Fiona Spooner,3,568,299
+2022-07-13,GitHub Action,13,13,13
+2022-07-13,Jonathan Gilmour,1,1,1
+2022-07-13,Mojmir Vinkler,3,230,169
+2022-07-13,Pablo Rosado,2,585,0
+2022-07-13,lucasrodes,3,434,2
+2022-07-13,spoonerf,3,5,19
+2022-07-14,Daniel Bachler,1,48,0
+2022-07-14,GitHub Action,4,5,5
+2022-07-14,Pablo Rosado,6,780,128
+2022-07-14,spoonerf,5,36,29
+2022-07-15,GitHub Action,4,4,4
+2022-07-15,Pablo Rosado,9,918,318
+2022-07-15,lucasrodes,1,888,0
+2022-07-15,spoonerf,5,40,20
+2022-07-16,GitHub Action,4,4,4
+2022-07-17,GitHub Action,4,4,4
+2022-07-18,Billy Cox,1,355,574
+2022-07-18,GitHub Action,6,6,6
+2022-07-18,Marigold,1,1,1
+2022-07-18,lucasrodes,2,3,3
+2022-07-19,GitHub Action,11,11,11
+2022-07-19,Mojmir Vinkler,2,1728,117
+2022-07-19,Pablo Rosado,5,395,13
+2022-07-20,GitHub Action,12,12,12
+2022-07-20,Marigold,1,1,1
+2022-07-20,Pablo Rosado,11,936,111
+2022-07-20,lucasrodes,5,301,58
+2022-07-21,GitHub Action,20,20,20
+2022-07-21,Mojmir Vinkler,1,12,2
+2022-07-21,Pablo Rosado,3,850,126
+2022-07-21,lucasrodes,5,33,24
+2022-07-22,GitHub Action,13,13,13
+2022-07-22,Pablo Rosado,2,275,183
+2022-07-22,lucasrodes,4,166,12
+2022-07-22,spoonerf,3,2066,26
+2022-07-23,GitHub Action,11,11,11
+2022-07-24,GitHub Action,10,10,10
+2022-07-24,lucasrodes,2,38,1
+2022-07-25,GitHub Action,18,18,18
+2022-07-25,Lars Yencken,2,31,20
+2022-07-25,Marigold,1,41,26
+2022-07-25,Mojmir Vinkler,1,71,72
+2022-07-25,Pablo Rosado,9,825,961
+2022-07-25,spoonerf,6,140,128
+2022-07-26,GitHub Action,19,19,19
+2022-07-26,Lars Yencken,1,25,16
+2022-07-26,Marigold,1,32,18
+2022-07-26,Pablo Rosado,19,714,397
+2022-07-26,lucasrodes,3,130,2
+2022-07-26,spoonerf,1,17,2
+2022-07-27,GitHub Action,11,11,11
+2022-07-27,Lars Yencken,1,7,4
+2022-07-27,Marigold,1,116,16
+2022-07-27,Mojmir Vinkler,1,50,5
+2022-07-27,Pablo Rosado,12,1171,1104
+2022-07-27,lucasrodes,1,2,0
+2022-07-27,spoonerf,6,1473,94
+2022-07-28,Daniel Bachler,2,1104,18
+2022-07-28,GitHub Action,19,19,19
+2022-07-28,Marigold,4,32,17
+2022-07-28,Mojmir Vinkler,3,73,23
+2022-07-28,Pablo Rosado,15,1274,110
+2022-07-28,spoonerf,3,7,3
+2022-07-29,GitHub Action,17,18,18
+2022-07-29,Lars Yencken,8,126,132
+2022-07-29,Mojmir Vinkler,1,200,204
+2022-07-29,Pablo Rosado,16,829,149
+2022-07-30,GitHub Action,10,11,11
+2022-07-31,GitHub Action,9,9,9
+2022-08-01,Daniel Bachler,1,27,9
+2022-08-01,GitHub Action,17,18,18
+2022-08-01,Lars Yencken,9,846,202
+2022-08-01,Marigold,1,1,1
+2022-08-01,Pablo Rosado,5,1388,115
+2022-08-01,spoonerf,4,71,40
+2022-08-02,GitHub Action,15,16,16
+2022-08-02,Lars Yencken,2,99,66
+2022-08-02,Marigold,1,10,11
+2022-08-02,Pablo Rosado,6,758,75
+2022-08-02,spoonerf,4,14,44
+2022-08-03,GitHub Action,20,20,20
+2022-08-03,Lars Yencken,2,2,2
+2022-08-03,Mojmir Vinkler,1,83,55
+2022-08-03,Pablo Rosado,6,1931,109
+2022-08-03,spoonerf,6,169,306
+2022-08-04,GitHub Action,17,17,17
+2022-08-04,Lars Yencken,5,31,18
+2022-08-04,Marigold,1,1,1
+2022-08-04,Pablo Rosado,8,1006,59
+2022-08-05,GitHub Action,23,23,23
+2022-08-05,Lars Yencken,1,127,0
+2022-08-05,Mojmir Vinkler,1,1,1
+2022-08-05,Pablo Rosado,6,404,73
+2022-08-06,GitHub Action,8,8,8
+2022-08-07,GitHub Action,8,8,8
+2022-08-08,GitHub Action,8,8,8
+2022-08-08,Pablo Rosado,4,303,153
+2022-08-08,lucasrodes,3,34,4
+2022-08-09,GitHub Action,12,12,12
+2022-08-09,Lars Yencken,2,31,19
+2022-08-09,Pablo Rosado,8,341,46
+2022-08-09,lucasrodes,1,1,1
+2022-08-10,Daniel Gavrilov,1,3,2
+2022-08-10,GitHub Action,12,13,13
+2022-08-10,Lars Yencken,1,121,121
+2022-08-10,lucasrodes,1,43,42
+2022-08-10,spoonerf,5,19,17
+2022-08-11,GitHub Action,18,18,18
+2022-08-11,Lars Yencken,4,13,10
+2022-08-11,Pablo Rosado,10,827,54
+2022-08-11,lucasrodes,12,100,34
+2022-08-12,GitHub Action,12,12,12
+2022-08-12,Pablo Rosado,3,26,32
+2022-08-12,lucasrodes,5,191,165
+2022-08-13,GitHub Action,8,8,8
+2022-08-14,GitHub Action,8,8,8
+2022-08-15,GitHub Action,13,13,13
+2022-08-15,Mojmir Vinkler,1,71,26
+2022-08-15,Pablo Rosado,11,726,647
+2022-08-16,GitHub Action,8,8,8
+2022-08-16,Mojmir Vinkler,1,22,9
+2022-08-16,Pablo Rosado,2,145,16
+2022-08-17,GitHub Action,16,16,16
+2022-08-17,Pablo Rosado,7,113,1120
+2022-08-18,GitHub Action,8,8,8
+2022-08-18,Mojmir Vinkler,2,662,214
+2022-08-18,Pablo Rosado,1,19,1
+2022-08-19,GitHub Action,12,12,12
+2022-08-19,lucasrodes,2,3,4
+2022-08-20,GitHub Action,8,8,8
+2022-08-21,GitHub Action,8,8,8
+2022-08-22,GitHub Action,13,14,14
+2022-08-22,Mojmir Vinkler,2,268,223
+2022-08-22,Pablo Rosado,4,281,81
+2022-08-22,lucasrodes,2,5,1
+2022-08-23,GitHub Action,8,8,8
+2022-08-24,GitHub Action,42,42,42
+2022-08-24,Mojmir Vinkler,2,73,49
+2022-08-24,Pablo Rosado,1,1,0
+2022-08-25,GitHub Action,12,12,12
+2022-08-25,Lars Yencken,1,1348,147
+2022-08-25,Pablo Rosado,1,66,7
+2022-08-25,lucasrodes,6,206,723
+2022-08-26,GitHub Action,7,8,8
+2022-08-26,Lars Yencken,5,175,60
+2022-08-26,Marigold,3,916,2728
+2022-08-26,Mojmir Vinkler,1,481,30
+2022-08-26,Pablo Rosado,2,591,600
+2022-08-26,lucasrodes,4,67,24
+2022-08-29,Daniel Bachler,1,194,67
+2022-08-29,Mojmir Vinkler,1,263,558
+2022-08-29,lucasrodes,2,9,7
+2022-08-30,Daniel Bachler,3,114,164
+2022-08-30,GitHub Action,1,1,1
+2022-08-30,lucasrodes,1,16,0
+2022-08-31,GitHub Action,1,1,1
+2022-08-31,Lars Yencken,5,96,51
+2022-08-31,Mojmir Vinkler,1,746,162
+2022-08-31,lucasrodes,6,333,40
+2022-09-01,Bobbie Macdonald,3,554,257
+2022-09-01,GitHub Action,12,14,14
+2022-09-01,Lars Yencken,3,214,597
+2022-09-01,Marigold,2,27,8
+2022-09-01,Mojmir Vinkler,1,410,718
+2022-09-02,Bobbie Macdonald,3,485,465
+2022-09-02,GitHub Action,18,18,18
+2022-09-02,Marigold,3,20,17
+2022-09-02,lucasrodes,2,22,6
+2022-09-03,GitHub Action,10,10,10
+2022-09-04,GitHub Action,8,8,8
+2022-09-05,GitHub Action,18,18,18
+2022-09-05,Lars Yencken,2,34,11
+2022-09-05,Marigold,1,1,1
+2022-09-05,Mojmir Vinkler,1,14,0
+2022-09-05,Pablo Rosado,3,72,16
+2022-09-06,GitHub Action,30,30,30
+2022-09-06,Pablo Rosado,6,505,363
+2022-09-07,GitHub Action,16,16,16
+2022-09-07,Mojmir Vinkler,3,30,22
+2022-09-07,Pablo Rosado,1,1,1
+2022-09-08,GitHub Action,25,25,25
+2022-09-08,Pablo Rosado,4,157,9
+2022-09-09,GitHub Action,25,25,25
+2022-09-09,Lars Yencken,1,2,2
+2022-09-09,Pablo Rosado,6,329,21
+2022-09-09,lucasrodes,2,66,0
+2022-09-09,spoonerf,3,426,22
+2022-09-10,GitHub Action,8,8,8
+2022-09-11,GitHub Action,8,8,8
+2022-09-12,GitHub Action,11,12,12
+2022-09-12,Marigold,3,14,12
+2022-09-12,Mojmir Vinkler,3,387,171
+2022-09-12,Pablo Rosado,7,381,60
+2022-09-12,spoonerf,1,766,37
+2022-09-13,GitHub Action,25,26,26
+2022-09-13,Mojmir Vinkler,1,135,106
+2022-09-13,lucasrodes,2,30,13
+2022-09-13,spoonerf,3,592,773
+2022-09-14,GitHub Action,15,15,15
+2022-09-14,Lars Yencken,1,3,3
+2022-09-14,Marigold,2,2,2
+2022-09-14,Mojmir Vinkler,1,1,1
+2022-09-14,Pablo Rosado,6,421,23
+2022-09-14,lucasrodes,6,33,14
+2022-09-14,spoonerf,4,268,128
+2022-09-15,GitHub Action,14,14,14
+2022-09-15,Mojmir Vinkler,1,494,560
+2022-09-15,Pablo Rosado,17,349,196
+2022-09-15,lucasrodes,1,6,6
+2022-09-15,spoonerf,2,60,100
+2022-09-16,Fiona Spooner,3,0,26
+2022-09-16,GitHub Action,8,8,8
+2022-09-16,Marigold,2,216,217
+2022-09-16,Mojmir Vinkler,1,5,28
+2022-09-16,spoonerf,6,132,77
+2022-09-17,GitHub Action,8,8,8
+2022-09-18,GitHub Action,8,8,8
+2022-09-19,GitHub Action,15,15,15
+2022-09-19,Marigold,1,10,0
+2022-09-19,Mojmir Vinkler,1,14,6
+2022-09-19,Pablo Rosado,4,196,5
+2022-09-20,GitHub Action,15,15,15
+2022-09-20,Lars Yencken,1,11,1
+2022-09-20,Mojmir Vinkler,1,19,0
+2022-09-20,Pablo Rosado,4,216,458
+2022-09-20,spoonerf,7,174,83
+2022-09-21,GitHub Action,13,14,14
+2022-09-21,Marigold,1,10,1
+2022-09-21,Mojmir Vinkler,3,305,93
+2022-09-21,Pablo Rosado,4,136,3
+2022-09-21,lucasrodes,2,86,9
+2022-09-21,spoonerf,2,3,55
+2022-09-22,GitHub Action,17,17,17
+2022-09-22,Lars Yencken,1,12,1
+2022-09-22,Marigold,3,157,650
+2022-09-22,Mojmir Vinkler,2,333,141
+2022-09-22,Pablo Rosado,7,590,310
+2022-09-22,spoonerf,3,6,13
+2022-09-23,GitHub Action,19,20,20
+2022-09-23,Lucas Rodés-Guirao,1,306,155
+2022-09-23,Marigold,1,6,2
+2022-09-23,Mojmir Vinkler,3,194,198
+2022-09-23,Pablo Rosado,10,726,79
+2022-09-24,GitHub Action,27,28,28
+2022-09-24,Lars Yencken,7,2084,356
+2022-09-25,GitHub Action,8,8,8
+2022-09-26,GitHub Action,41,41,41
+2022-09-26,Lucas Rodés-Guirao,2,78,4
+2022-09-26,Mojmir Vinkler,1,38,24
+2022-09-26,Pablo Rosado,5,354,1474
+2022-09-27,GitHub Action,19,19,19
+2022-09-27,Lucas Rodés-Guirao,2,161,52
+2022-09-27,Mojmir Vinkler,2,36,18
+2022-09-27,lucasrodes,1,7,2
+2022-09-28,Fiona Spooner,1,724,1
+2022-09-28,GitHub Action,15,15,15
+2022-09-28,Lars Yencken,6,24,22
+2022-09-28,Pablo Rosado,11,339,86
+2022-09-29,Fiona Spooner,1,75,31
+2022-09-29,GitHub Action,42,42,42
+2022-09-29,Lucas Rodés-Guirao,1,6,2
+2022-09-29,Pablo Rosado,1,81,0
+2022-09-30,GitHub Action,21,21,21
+2022-09-30,Lars Yencken,3,12,13
+2022-09-30,Mojmir Vinkler,1,25,30
+2022-09-30,Pablo Rosado,7,737,166
+2022-10-01,GitHub Action,11,11,11
+2022-10-02,GitHub Action,8,8,8
+2022-10-03,Fiona Spooner,1,260,0
+2022-10-03,GitHub Action,10,10,10
+2022-10-03,Pablo Rosado,7,182,41
+2022-10-04,GitHub Action,11,11,11
+2022-10-04,Pablo Rosado,3,7,5
+2022-10-05,GitHub Action,17,17,17
+2022-10-05,Lucas Rodés-Guirao,3,120,35
+2022-10-05,Marigold,1,165,683
+2022-10-06,Daniel Bachler,2,3,2
+2022-10-06,GitHub Action,17,17,17
+2022-10-06,Pablo Rosado,1,4,1
+2022-10-07,GitHub Action,21,21,21
+2022-10-07,Pablo Rosado,2,102,66
+2022-10-08,GitHub Action,8,8,8
+2022-10-09,GitHub Action,8,8,8
+2022-10-10,GitHub Action,31,31,31
+2022-10-10,Lucas Rodés-Guirao,1,84,26
+2022-10-10,Pablo Rosado,5,595,240
+2022-10-10,lucasrodes,1,6,3
+2022-10-11,GitHub Action,28,28,28
+2022-10-11,Lucas Rodés-Guirao,1,39,35
+2022-10-11,Pablo Rosado,8,1856,222
+2022-10-12,GitHub Action,17,17,17
+2022-10-12,Pablo Rosado,4,93,14
+2022-10-13,GitHub Action,26,26,26
+2022-10-13,Lars Yencken,1,2,2
+2022-10-13,Pablo Rosado,2,668,169
+2022-10-14,GitHub Action,26,26,26
+2022-10-14,Pablo Rosado,1,63,4
+2022-10-15,GitHub Action,8,8,8
+2022-10-16,GitHub Action,11,11,11
+2022-10-17,Fiona Spooner,2,545,1
+2022-10-17,GitHub Action,24,24,24
+2022-10-17,Mojmir Vinkler,1,4,0
+2022-10-18,GitHub Action,12,12,12
+2022-10-18,Marigold,1,1,1
+2022-10-18,Mojmir Vinkler,2,31,56
+2022-10-18,Pablo Rosado,7,319,69
+2022-10-19,Fiona Spooner,1,123,2
+2022-10-19,GitHub Action,8,8,8
+2022-10-20,GitHub Action,14,14,14
+2022-10-20,Pablo Rosado,9,664,46
+2022-10-21,GitHub Action,13,13,13
+2022-10-21,Marigold,1,12,3
+2022-10-21,Mojmir Vinkler,1,31,7
+2022-10-21,Pablo Rosado,6,324,100
+2022-10-22,GitHub Action,8,8,8
+2022-10-23,GitHub Action,8,8,8
+2022-10-24,GitHub Action,37,37,37
+2022-10-24,Marigold,2,51,3
+2022-10-24,Mojmir Vinkler,1,140,622
+2022-10-24,Pablo Rosado,9,234,37
+2022-10-25,GitHub Action,19,19,19
+2022-10-25,Lucas Rodés-Guirao,2,824,161
+2022-10-25,Marigold,1,9,2
+2022-10-25,Pablo Rosado,6,346,13
+2022-10-26,GitHub Action,24,24,24
+2022-10-26,Lucas Rodés-Guirao,2,247,1
+2022-10-26,Marigold,1,1,1
+2022-10-26,Pablo Rosado,7,451,180
+2022-10-26,lucasrodes,1,1,1
+2022-10-27,Fiona Spooner,1,12,0
+2022-10-27,GitHub Action,19,19,19
+2022-10-27,Lucas Rodés-Guirao,1,415,152
+2022-10-28,GitHub Action,11,11,11
+2022-10-28,Pablo Rosado,2,729,0
+2022-10-29,GitHub Action,15,15,15
+2022-10-30,GitHub Action,8,8,8
+2022-10-31,GitHub Action,22,22,22
+2022-10-31,Lucas Rodés-Guirao,1,1382,81
+2022-10-31,Marigold,3,7,8
+2022-10-31,Mojmir Vinkler,2,227,85
+2022-10-31,Pablo Rosado,3,192,135
+2022-10-31,lucasrodes,2,1,1067
+2022-11-01,Fiona Spooner,1,529,1
+2022-11-01,GitHub Action,36,36,36
+2022-11-01,Marigold,1,2,1
+2022-11-01,Pablo Rosado,2,73,23
+2022-11-02,GitHub Action,19,19,19
+2022-11-02,Marigold,3,269,658
+2022-11-02,Pablo Rosado,3,69,33
+2022-11-03,GitHub Action,20,21,21
+2022-11-03,Marigold,1,110,155
+2022-11-03,Pablo Rosado,4,189,71
+2022-11-04,GitHub Action,25,25,25
+2022-11-04,Lars Yencken,1,1,1
+2022-11-04,Lucas Rodés-Guirao,2,451,18
+2022-11-04,Marigold,4,25,22
+2022-11-04,Pablo Rosado,2,221,63
+2022-11-05,GitHub Action,20,20,20
+2022-11-06,GitHub Action,8,8,8
+2022-11-07,GitHub Action,13,13,13
+2022-11-08,GitHub Action,8,8,8
+2022-11-09,GitHub Action,14,14,14
+2022-11-09,Pablo Rosado,9,1628,194
+2022-11-10,GitHub Action,8,8,8
+2022-11-10,Pablo Rosado,4,276,204
+2022-11-11,GitHub Action,7,7,7
+2022-11-11,Pablo Rosado,7,594,203
+2022-11-12,GitHub Action,4,4,4
+2022-11-13,GitHub Action,4,4,4
+2022-11-14,GitHub Action,5,5,5
+2022-11-15,GitHub Action,7,7,7
+2022-11-15,Marigold,1,62,21
+2022-11-15,Pablo Rosado,1,162,162
+2022-11-16,GitHub Action,6,6,6
+2022-11-16,Lucas Rodés-Guirao,1,723,125
+2022-11-16,dependabot[bot],1,1614,304
+2022-11-17,GitHub Action,4,4,4
+2022-11-17,Pablo Rosado,1,2,1
+2022-11-18,GitHub Action,7,7,7
+2022-11-18,Pablo Rosado,1,7,0
+2022-11-19,GitHub Action,4,4,4
+2022-11-20,GitHub Action,4,4,4
+2022-11-21,GitHub Action,5,5,5
+2022-11-21,Pablo Rosado,6,126,67
+2022-11-22,GitHub Action,5,5,5
+2022-11-22,Lars Yencken,2,427,2134
+2022-11-23,GitHub Action,2,2,2
+2022-11-23,Lars Yencken,3,3,3
+2022-11-23,Pablo Rosado,1,6,6
+2022-11-24,GitHub Action,2,2,2
+2022-11-24,Marigold,3,128,40
+2022-11-24,Pablo Rosado,4,142,6
+2022-11-25,Fiona Spooner,1,365,0
+2022-11-25,Pablo Rosado,1,834,0
+2022-11-28,GitHub Action,4,4,4
+2022-11-28,Lucas Rodés-Guirao,1,1,0
+2022-11-28,Mojmir Vinkler,1,17,1
+2022-11-28,Pablo Rosado,1,74,44
+2022-11-28,paarriagadap,3,369,11
+2022-11-29,GitHub Action,16,16,16
+2022-11-29,Lucas Rodés-Guirao,6,1362,170
+2022-11-29,Marigold,1,1,0
+2022-11-29,Mojmir Vinkler,1,2469,218
+2022-11-29,Pablo Rosado,6,395,366
+2022-11-29,paarriagadap,6,912,35
+2022-11-30,GitHub Action,12,12,12
+2022-11-30,Lucas Rodés-Guirao,1,745,6
+2022-11-30,Marigold,1,1,1
+2022-11-30,Pablo Rosado,7,490,175
+2022-11-30,paarriagadap,4,26,310
+2022-12-01,GitHub Action,7,7,7
+2022-12-01,Pablo Rosado,6,436,108
+2022-12-02,GitHub Action,9,9,9
+2022-12-02,Lucas Rodés-Guirao,1,681,6
+2022-12-02,Pablo Rosado,5,243,188
+2022-12-03,GitHub Action,3,3,3
+2022-12-04,GitHub Action,6,6,6
+2022-12-05,Fiona Spooner,1,26,9
+2022-12-05,GitHub Action,5,5,5
+2022-12-05,Lucas Rodés-Guirao,1,14,90
+2022-12-05,Pablo Rosado,10,421,285
+2022-12-06,GitHub Action,6,6,6
+2022-12-06,Lucas Rodés-Guirao,1,92,13
+2022-12-06,Mojmir Vinkler,1,19,146
+2022-12-06,Pablo Rosado,3,79,46
+2022-12-07,GitHub Action,16,16,16
+2022-12-07,Mojmir Vinkler,2,1282,155
+2022-12-07,Pablo Rosado,5,148,45
+2022-12-07,analytics,5,16314,48
+2022-12-08,analytics,6,19374,93
+2022-12-09,GitHub Action,1,1,1
+2022-12-09,Lucas Rodés-Guirao,1,750,1
+2022-12-09,Marigold,3,24,7
+2022-12-09,Mojmir Vinkler,2,1210,551
+2022-12-09,analytics,6,87,87
+2022-12-10,analytics,4,67,67
+2022-12-11,analytics,4,61,61
+2022-12-12,Pablo Rosado,3,1909,10
+2022-12-12,analytics,4,95,95
+2022-12-13,Mojmir Vinkler,1,102,172
+2022-12-13,Pablo Arriagada,1,439,271
+2022-12-13,Pablo Rosado,4,141,24
+2022-12-13,analytics,5,80,152
+2022-12-14,Lucas Rodés-Guirao,1,476,61
+2022-12-14,Marigold,1,1,1
+2022-12-14,Pablo Rosado,7,5027,30
+2022-12-14,analytics,4,69,69
+2022-12-15,Lucas Rodés-Guirao,1,683,217
+2022-12-15,analytics,5,69,137
+2022-12-16,Lucas Rodés-Guirao,1,87,123
+2022-12-16,Pablo Rosado,7,147,71
+2022-12-16,analytics,5,90,90
+2022-12-17,analytics,4,63,63
+2022-12-18,analytics,4,58,58
+2022-12-19,Lucas Rodés-Guirao,1,1098,80
+2022-12-19,Mojmir Vinkler,2,85,10
+2022-12-19,Pablo Arriagada,1,847,1
+2022-12-19,Pablo Rosado,3,141,90
+2022-12-19,analytics,6,106,106
+2022-12-20,Marigold,1,27,27
+2022-12-20,Mojmir Vinkler,1,6,7
+2022-12-20,analytics,5,231,231
+2022-12-21,Lars Yencken,3,2916,496
+2022-12-21,Mojmir Vinkler,1,165,118
+2022-12-21,Pablo Rosado,1,14,5
+2022-12-21,analytics,6,136,102
+2022-12-22,GitHub Action,3,5,5
+2022-12-22,Lars Yencken,5,16,35
+2022-12-22,Lucas Rodés-Guirao,1,1010,307
+2022-12-22,Pablo Rosado,1,8,7
+2022-12-22,analytics,6,108,108
+2022-12-23,Lucas Rodés-Guirao,8,330,127
+2022-12-23,analytics,6,90,90
+2022-12-24,analytics,4,79,79
+2022-12-25,analytics,4,65,65
+2022-12-26,analytics,4,60,60
+2022-12-27,Lucas Rodés-Guirao,1,27,26
+2022-12-27,analytics,5,69,103
+2022-12-28,Lucas Rodés-Guirao,2,1,2
+2022-12-28,Pablo Rosado,4,997,12
+2022-12-28,analytics,4,69,69
+2022-12-29,Lucas Rodés-Guirao,2,479,9
+2022-12-29,Pablo Rosado,10,4063,78
+2022-12-29,analytics,5,63,63
+2022-12-30,Lucas Rodés-Guirao,1,118,75
+2022-12-30,Pablo Rosado,5,95,4
+2022-12-30,analytics,5,71,71
+2022-12-31,analytics,4,59,59
+2023-01-01,analytics,4,58,58
+2023-01-02,GitHub Action,4,6,6
+2023-01-02,Mojmir Vinkler,1,258,71
+2023-01-02,Pablo Rosado,16,342,57
+2023-01-02,analytics,8,67,67
+2023-01-03,Lars Yencken,1,1,1
+2023-01-03,Mojmir Vinkler,1,464,2
+2023-01-03,Pablo Arriagada,1,434,18
+2023-01-03,Pablo Rosado,7,276,22
+2023-01-03,analytics,8,114,218
+2023-01-04,Mojmir Vinkler,4,191,88
+2023-01-04,Pablo Rosado,15,1100,139
+2023-01-04,analytics,6,67,171
+2023-01-05,Lars Yencken,3,24,4
+2023-01-05,Marigold,1,4,2
+2023-01-05,Mojmir Vinkler,1,89,41
+2023-01-05,Pablo Rosado,11,1260,160
+2023-01-05,analytics,9,270,128
+2023-01-06,Daniel Bachler,1,868,489
+2023-01-06,Lars Yencken,3,462,338
+2023-01-06,Lucas Rodés-Guirao,1,216,68
+2023-01-06,analytics,8,117,117
+2023-01-07,analytics,4,64,64
+2023-01-08,analytics,4,69,69
+2023-01-09,Fiona Spooner,2,1196,1
+2023-01-09,GitHub Action,1,1,1
+2023-01-09,Lars Yencken,5,1741,373
+2023-01-09,Lucas Rodés-Guirao,1,594,725
+2023-01-09,Pablo Rosado,9,70,43
+2023-01-09,analytics,8,74,210
+2023-01-10,Fiona Spooner,1,6,0
+2023-01-10,Lars Yencken,7,621,470
+2023-01-10,Lucas Rodés-Guirao,2,1027,11
+2023-01-10,Pablo Rosado,6,217,145
+2023-01-10,analytics,4,62,62
+2023-01-11,Lars Yencken,3,16,79
+2023-01-11,Lucas Rodés-Guirao,1,289,1
+2023-01-11,Mojmir Vinkler,2,304,197
+2023-01-11,Pablo Rosado,12,192,153
+2023-01-11,analytics,8,142,62
+2023-01-12,Mojmir Vinkler,1,68,90
+2023-01-12,Pablo Rosado,11,248,318
+2023-01-12,analytics,6,106,100
+2023-01-13,Lars Yencken,1,2,2
+2023-01-13,Mojmir Vinkler,1,8,1
+2023-01-13,analytics,4,116,98
+2023-01-14,analytics,4,57,225
+2023-01-15,analytics,4,58,58
+2023-01-16,Fiona Spooner,2,305,14
+2023-01-16,Mojmir Vinkler,1,416,176
+2023-01-16,analytics,5,79,79
+2023-01-17,Fiona Spooner,1,94,83
+2023-01-17,Lucas Rodés-Guirao,2,1197,259
+2023-01-17,Mojmir Vinkler,1,28,101
+2023-01-17,Pablo Rosado,11,339,24
+2023-01-17,analytics,4,61,57
+2023-01-17,owidbot,1,23,23
+2023-01-18,Fiona Spooner,3,467,224
+2023-01-18,Lucas Rodés-Guirao,1,13,4
+2023-01-18,owidbot,9,149,383
+2023-01-19,owidbot,4,104,168
+2023-01-20,Marigold,2,86,3
+2023-01-20,Mojmir Vinkler,3,31,94
+2023-01-20,Pablo Rosado,7,144,99
+2023-01-20,analytics,1,102,0
+2023-01-20,owidbot,9,161,185
+2023-01-21,owidbot,4,64,64
+2023-01-22,owidbot,5,64,64
+2023-01-23,Mojmir Vinkler,1,87,17
+2023-01-23,owidbot,8,74,109
+2023-01-24,Fiona Spooner,1,50,52
+2023-01-24,Lucas Rodés-Guirao,1,39,52
+2023-01-24,owidbot,7,72,108
+2023-01-25,Mojmir Vinkler,1,269,324
+2023-01-25,owidbot,6,75,73
+2023-01-26,Pablo Rosado,7,494,96
+2023-01-26,owidbot,4,69,69
+2023-01-27,Lars Yencken,1,8,4
+2023-01-27,Mojmir Vinkler,1,79,23
+2023-01-27,Pablo Rosado,11,405,237
+2023-01-27,owidbot,7,232,220
+2023-01-28,owidbot,4,64,64
+2023-01-29,owidbot,3,56,56
+2023-01-30,Marigold,1,3,3
+2023-01-30,Mojmir Vinkler,2,27,17
+2023-01-30,Pablo Rosado,3,15,2
+2023-01-30,owidbot,6,91,89
+2023-01-31,Fiona Spooner,1,863,9
+2023-01-31,owidbot,6,100,98
+2023-02-01,owidbot,6,145,135
+2023-02-02,Fiona Spooner,1,5,8
+2023-02-02,Lucas Rodés-Guirao,1,1,1
+2023-02-02,Mojmir Vinkler,1,137,101
+2023-02-02,Pablo Arriagada,1,1364,5
+2023-02-02,owidbot,7,136,98
+2023-02-03,Lars Yencken,1,14,2
+2023-02-03,owidbot,4,78,186
+2023-02-04,owidbot,6,70,70
+2023-02-05,owidbot,4,95,59
+2023-02-06,Lucas Rodés-Guirao,2,2869,8
+2023-02-06,owidbot,6,96,130
+2023-02-07,owidbot,4,53,53
+2023-02-08,Pablo Rosado,3,3186,93
+2023-02-08,owidbot,4,135,127
+2023-02-09,Pablo Rosado,1,845,1506
+2023-02-09,owidbot,4,64,64
+2023-02-10,Pablo Rosado,2,22,9
+2023-02-10,owidbot,6,92,92
+2023-02-11,owidbot,4,51,51
+2023-02-12,owidbot,4,53,53
+2023-02-13,Pablo Arriagada,2,1136,0
+2023-02-13,Pablo Rosado,1,2,2
+2023-02-13,owidbot,8,235,217
+2023-02-14,owidbot,4,95,59
+2023-02-15,Lucas Rodés-Guirao,1,1423,33
+2023-02-15,Mojmir Vinkler,1,3,1
+2023-02-15,Pablo Rosado,4,821,154
+2023-02-15,owidbot,6,94,124
+2023-02-16,Mojmir Vinkler,1,200,6
+2023-02-16,owidbot,5,73,279
+2023-02-17,Lucas Rodés-Guirao,1,271,34
+2023-02-17,owidbot,13,16526,14564
+2023-02-18,owidbot,5,564,504
+2023-02-19,owidbot,4,58,58
+2023-02-20,Mojmir Vinkler,2,231,93
+2023-02-20,Pablo Rosado,5,3098,0
+2023-02-20,owidbot,7,65,137
+2023-02-21,Lucas Rodés-Guirao,1,84,80
+2023-02-21,Pablo Rosado,4,472,17
+2023-02-21,owidbot,17,360,101
+2023-02-22,Mojmir Vinkler,2,794,22
+2023-02-22,Pablo Rosado,7,1337,32
+2023-02-22,owidbot,1,47,11
+2023-02-23,Fiona Spooner,2,1933,10
+2023-02-23,Pablo Rosado,11,845,306
+2023-02-23,owidbot,2,4180,4420
+2023-02-24,Marigold,3,22,6
+2023-02-24,Pablo Rosado,19,3329,400
+2023-02-24,owidbot,7,125,69
+2023-02-25,owidbot,5,69,69
+2023-02-26,owidbot,6,67,67
+2023-02-27,Marigold,2,9,4
+2023-02-27,Mojmir Vinkler,1,1,1
+2023-02-27,owidbot,8,73,73
+2023-02-28,Fiona Spooner,1,1361,1
+2023-02-28,Lucas Rodés-Guirao,1,236,12
+2023-02-28,Pablo Rosado,8,981,47
+2023-02-28,owidbot,5,76,798
+2023-03-01,Pablo Rosado,1,28,0
+2023-03-01,owidbot,6,141,85
+2023-03-02,Fiona Spooner,4,89,32
+2023-03-02,Pablo Arriagada,1,241,80
+2023-03-02,Pablo Rosado,7,5237,245
+2023-03-02,owidbot,7,1150,71
+2023-03-03,Fiona Spooner,4,107,93
+2023-03-03,Mojmir Vinkler,1,8,21
+2023-03-03,owidbot,10,125,125
+2023-03-04,owidbot,4,67,67
+2023-03-05,owidbot,4,70,70
+2023-03-06,Edouard Mathieu,6,260,38
+2023-03-06,Fiona Spooner,3,123,46
+2023-03-06,Mojmir Vinkler,2,1724,1091
+2023-03-06,Pablo Rosado,1,70,52
+2023-03-06,owidbot,10,197,116
+2023-03-07,Edouard Mathieu,1,3,3
+2023-03-07,Fiona Spooner,2,53,16
+2023-03-07,Lucas Rodés-Guirao,1,366,0
+2023-03-07,Marigold,1,0,1
+2023-03-07,Mojmir Vinkler,1,103,65
+2023-03-07,owidbot,6,62,98
+2023-03-07,spoonerf,1,1,1
+2023-03-08,Edouard Mathieu,6,206,1
+2023-03-08,Fiona Spooner,1,50,39
+2023-03-08,Mojmir Vinkler,2,201,58
+2023-03-08,Pablo Rosado,4,147,62
+2023-03-08,owidbot,9,198,180
+2023-03-09,Edouard Mathieu,4,57,2
+2023-03-09,Fiona Spooner,1,4,4
+2023-03-09,Lucas Rodés-Guirao,3,302,19
+2023-03-09,Pablo Rosado,9,871,377
+2023-03-09,owidbot,9,84,130
+2023-03-10,Bastian Herre,2,24,1
+2023-03-10,Edouard Mathieu,9,330,35
+2023-03-10,Fiona Spooner,1,37,0
+2023-03-10,Lucas Rodés-Guirao,1,149,4
+2023-03-10,Marigold,1,1,1
+2023-03-10,Mojmir Vinkler,1,251,69
+2023-03-10,Pablo Rosado,9,424,369
+2023-03-10,owidbot,9,88,124
+2023-03-11,owidbot,4,55,55
+2023-03-12,owidbot,4,52,52
+2023-03-13,Edouard Mathieu,1,13,0
+2023-03-13,Fiona Spooner,1,58,4
+2023-03-13,Lucas Rodés-Guirao,2,2,2
+2023-03-13,Marigold,2,94,3
+2023-03-13,Mojmir Vinkler,3,67,45
+2023-03-13,Pablo Arriagada,2,543,1
+2023-03-13,owidbot,9,89,240
+2023-03-14,Edouard Mathieu,7,63,36
+2023-03-14,Fiona Spooner,1,28,8
+2023-03-14,Lucas Rodés-Guirao,2,463,99
+2023-03-14,Marigold,2,5,5
+2023-03-14,Mojmir Vinkler,2,160,55
+2023-03-14,owidbot,12,111,111
+2023-03-15,Marigold,1,2,2
+2023-03-15,Pablo Arriagada,1,98,34
+2023-03-15,owidbot,13,69,105
+2023-03-16,Edouard Mathieu,12,380,92
+2023-03-16,Marigold,1,2,2
+2023-03-16,Mojmir Vinkler,3,32,10
+2023-03-16,owidbot,8,64,100
+2023-03-17,Pablo Arriagada,1,18,11
+2023-03-17,owidbot,4,60,60
+2023-03-18,owidbot,3,37,37
+2023-03-19,owidbot,4,50,50
+2023-03-20,Fiona Spooner,1,397,0
+2023-03-20,Mojmir Vinkler,1,124,47
+2023-03-20,owidbot,6,54,54
+2023-03-21,Edouard Mathieu,4,20,4
+2023-03-21,Fiona Spooner,1,8,0
+2023-03-21,owidbot,6,61,97
+2023-03-22,Lucas Rodés-Guirao,2,883,2
+2023-03-22,owidbot,18,122,302
+2023-03-23,Fiona Spooner,4,55,40
+2023-03-23,Lucas Rodés-Guirao,2,50,4
+2023-03-23,Marigold,1,1,0
+2023-03-23,owidbot,8,122,122
+2023-03-24,Fiona Spooner,2,121,7
+2023-03-24,Lucas Rodés-Guirao,1,21,1
+2023-03-24,owidbot,6,51,87
+2023-03-25,owidbot,5,56,56
+2023-03-26,owidbot,4,49,49
+2023-03-27,Fiona Spooner,2,24,83
+2023-03-27,Mojmir Vinkler,3,121,119
+2023-03-27,Pablo Rosado,11,571,463
+2023-03-27,owidbot,8,61,61
+2023-03-28,Fiona Spooner,2,63,57
+2023-03-28,Lucas Rodés-Guirao,2,44,30
+2023-03-28,Mojmir Vinkler,1,6,4
+2023-03-28,Pablo Rosado,5,340,20
+2023-03-28,owidbot,7,958,70
+2023-03-29,Fiona Spooner,3,478,1
+2023-03-29,Lucas Rodés-Guirao,1,31,0
+2023-03-29,Pablo Arriagada,1,15,6
+2023-03-29,Pablo Rosado,3,232,67
+2023-03-29,owidbot,7,112,112
+2023-03-30,Fiona Spooner,1,120,77
+2023-03-30,Lucas Rodés-Guirao,2,5918,242
+2023-03-30,Pablo Rosado,4,390,291
+2023-03-30,owidbot,6,47,47
+2023-03-31,Fiona Spooner,4,54,106
+2023-03-31,Lucas Rodés-Guirao,2,228,14
+2023-03-31,Pablo Rosado,5,196,37
+2023-03-31,owidbot,9,153,70
+2023-04-01,owidbot,6,76,76
+2023-04-02,owidbot,5,61,61
+2023-04-03,Fiona Spooner,3,25,25
+2023-04-03,Lucas Rodés-Guirao,1,1,1
+2023-04-03,Pablo Rosado,4,142,11
+2023-04-03,owidbot,3,44,44
+2023-04-04,Fiona Spooner,3,598,4
+2023-04-04,Lucas Rodés-Guirao,2,1262,10
+2023-04-04,Pablo Rosado,7,213,195
+2023-04-04,owidbot,8,163,183
+2023-04-05,Fiona Spooner,1,3,1
+2023-04-05,Pablo Arriagada,1,6,6
+2023-04-05,Pablo Rosado,4,124,6
+2023-04-05,owidbot,6,45,45
+2023-04-06,Fiona Spooner,1,339,1
+2023-04-06,Lucas Rodés-Guirao,2,260,43
+2023-04-06,Mojmir Vinkler,1,638,388
+2023-04-06,Pablo Arriagada,1,6,6
+2023-04-06,Pablo Rosado,5,127,84
+2023-04-06,owidbot,9,82,192
+2023-04-07,Lucas Rodés-Guirao,3,1115,661
+2023-04-07,Marcel Gerber,1,1,1
+2023-04-07,Pablo Rosado,2,119,72
+2023-04-07,owidbot,7,49,85
+2023-04-08,owidbot,5,56,56
+2023-04-09,owidbot,3,27,27
+2023-04-10,Pablo Rosado,11,846,391
+2023-04-10,owidbot,5,50,50
+2023-04-11,Lucas Rodés-Guirao,1,19,11
+2023-04-11,Pablo Rosado,5,237,104
+2023-04-11,owidbot,5,108,430
+2023-04-12,Pablo Rosado,6,316,18
+2023-04-12,owidbot,5,56,56
+2023-04-13,Lars Yencken,1,2,2
+2023-04-13,Pablo Rosado,7,539,34
+2023-04-13,owidbot,4,58,58
+2023-04-14,Lucas Rodés-Guirao,1,35,23
+2023-04-14,Pablo Rosado,1,3,4
+2023-04-14,owidbot,5,90,126
+2023-04-15,owidbot,5,56,56
+2023-04-16,owidbot,5,56,56
+2023-04-17,Lucas Rodés-Guirao,1,24,24
+2023-04-17,Pablo Rosado,2,124,2
+2023-04-17,owidbot,14,67,572
+2023-04-18,Lucas Rodés-Guirao,1,189,2
+2023-04-18,Mojmir Vinkler,2,38,30
+2023-04-18,Pablo Arriagada,3,35,9
+2023-04-18,Pablo Rosado,9,495,19
+2023-04-18,lucasrodes,2,130,12
+2023-04-18,owidbot,23,359,557
+2023-04-19,Fiona Spooner,1,46,7
+2023-04-19,Lucas Rodés-Guirao,2,166,191
+2023-04-19,Mojmir Vinkler,1,45,9
+2023-04-19,lucasrodes,4,1111,17
+2023-04-19,owidbot,4,130,66
+2023-04-20,Fiona Spooner,2,4,2
+2023-04-20,Pablo Rosado,17,695,47
+2023-04-20,owidbot,3,43,115
+2023-04-21,Mojmir Vinkler,1,19,5
+2023-04-21,Pablo Rosado,7,593,1
+2023-04-21,owidbot,2,39,39
+2023-04-23,owidbot,2,79,79
+2023-04-24,Fiona Spooner,3,24,30
+2023-04-24,Lucas Rodés-Guirao,2,2017,910
+2023-04-24,Pablo Rosado,2,47,11
+2023-04-24,owidbot,8,69,105
+2023-04-25,Fiona Spooner,1,15,14
+2023-04-25,Lucas Rodés-Guirao,2,1327,16
+2023-04-25,Marigold,1,1,1
+2023-04-25,Pablo Rosado,9,559,117
+2023-04-25,owidbot,3,38,74
+2023-04-26,Lucas Rodés-Guirao,2,1282,98
+2023-04-26,Mojmir Vinkler,2,199,25
+2023-04-26,Pablo Rosado,2,131,0
+2023-04-26,lucasrodes,1,3,4
+2023-04-26,owidbot,6,110,110
+2023-04-27,Lucas Rodés-Guirao,2,41,12
+2023-04-27,Mojmir Vinkler,1,8,3
+2023-04-27,Pablo Rosado,10,306,47
+2023-04-27,owidbot,13,102,174
+2023-04-28,Pablo Rosado,7,716,2
+2023-04-28,owidbot,4,51,159
+2023-04-29,owidbot,2,84,84
+2023-05-01,Pablo Rosado,9,1829,181
+2023-05-02,Edouard Mathieu,9,451,11
+2023-05-02,Pablo Rosado,11,1398,66
+2023-05-02,owidbot,2,107,179
+2023-05-03,Fiona Spooner,1,1,0
+2023-05-03,Lucas Rodés-Guirao,1,6,2
+2023-05-03,Mojmir Vinkler,2,3,2
+2023-05-03,Pablo Rosado,4,499,28
+2023-05-03,owidbot,8,363,117
+2023-05-04,Fiona Spooner,1,2,1
+2023-05-04,Lucas Rodés-Guirao,6,922,11
+2023-05-04,Marigold,1,1,1
+2023-05-04,Mojmir Vinkler,1,313,3
+2023-05-04,Pablo Rosado,4,171,79
+2023-05-04,owidbot,7,133,133
+2023-05-05,Edouard Mathieu,9,138,15
+2023-05-05,Lucas Rodés-Guirao,1,0,4
+2023-05-05,Mojmir Vinkler,1,1,1
+2023-05-05,Pablo Rosado,1,37,34
+2023-05-05,owidbot,8,66,211
+2023-05-06,owidbot,2,43,43
+2023-05-07,owidbot,2,49,49
+2023-05-08,Marigold,1,4,4
+2023-05-08,Pablo Rosado,2,3,3
+2023-05-08,owidbot,1,39,39
+2023-05-09,Fiona Spooner,1,1502,1
+2023-05-09,Marigold,3,12,8
+2023-05-09,owidbot,11,760,128
+2023-05-10,Fiona Spooner,1,2,2
+2023-05-10,Pablo Arriagada,1,1211,0
+2023-05-10,owidbot,4,39,75
+2023-05-11,Lucas Rodés-Guirao,1,10,10
+2023-05-11,Marigold,1,1,0
+2023-05-11,lucasrodes,1,10,10
+2023-05-11,owidbot,1,59,59
+2023-05-12,Lucas Rodés-Guirao,1,3,0
+2023-05-12,Marigold,1,1,1
+2023-05-12,Pablo Arriagada,1,23,28
+2023-05-12,owidbot,4,199,51
+2023-05-13,Marigold,1,5,5
+2023-05-13,owidbot,1,22,22
+2023-05-14,owidbot,2,46,46
+2023-05-15,Fiona Spooner,1,1,1
+2023-05-15,Lucas Rodés-Guirao,3,1118,1
+2023-05-15,Marigold,1,1,1
+2023-05-15,Mojmir Vinkler,4,200,650
+2023-05-15,Pablo Arriagada,2,574,1
+2023-05-15,owidbot,4,53,53
+2023-05-16,Fiona Spooner,1,123,54
+2023-05-16,Marigold,1,3,3
+2023-05-16,Pablo Arriagada,2,1736,1
+2023-05-16,dependabot[bot],1,13,3
+2023-05-16,owidbot,1,2,2
+2023-05-17,Fiona Spooner,2,3,3
+2023-05-17,Lucas Rodés-Guirao,1,18,3
+2023-05-17,Marigold,2,4,5
+2023-05-17,Mojmir Vinkler,1,236,224
+2023-05-17,Pablo Arriagada,1,22,0
+2023-05-17,owidbot,1,4,4
+2023-05-18,Lucas Rodés-Guirao,2,3458,1761
+2023-05-18,Mojmir Vinkler,2,210,87
+2023-05-19,Lucas Rodés-Guirao,3,108,111
+2023-05-19,Marigold,2,6,7
+2023-05-19,owidbot,1,6,5
+2023-05-20,Lucas Rodés-Guirao,1,159,23
+2023-05-22,Fiona Spooner,1,7,3
+2023-05-22,Marigold,4,28,7
+2023-05-22,Mojmir Vinkler,2,1052,14029
+2023-05-23,Lucas Rodés-Guirao,2,1439,765
+2023-05-23,Mojmir Vinkler,3,504,53
+2023-05-23,lucasrodes,4,25,15
+2023-05-24,Edouard Mathieu,2,109,0
+2023-05-24,Lucas Rodés-Guirao,2,33,9
+2023-05-24,Mojmir Vinkler,1,25,8
+2023-05-24,Pablo Rosado,1,38,1
+2023-05-25,Edouard Mathieu,7,163,2
+2023-05-25,Fiona Spooner,1,239,282
+2023-05-25,Lucas Rodés-Guirao,1,56,28
+2023-05-25,Marigold,6,34,66
+2023-05-25,Pablo Arriagada,3,200,56
+2023-05-25,Pablo Rosado,1,10,21
+2023-05-25,owidbot,1,4,4
+2023-05-26,Fiona Spooner,1,224,36
+2023-05-26,Pablo Arriagada,1,3,3
+2023-05-26,Pablo Rosado,6,1441,5
+2023-05-26,veronikasamborska1994,2,3676,9
+2023-05-28,owidbot,1,4,4
+2023-05-29,Marigold,1,1,0
+2023-05-29,Pablo Rosado,2,121,22
+2023-05-29,owidbot,3,19,16
+2023-05-29,veronikasamborska1994,1,28,7
+2023-05-30,Fiona Spooner,1,16,4
+2023-05-30,Pablo Rosado,2,133,3
+2023-05-30,owidbot,1,4,4
+2023-05-31,Mojmir Vinkler,1,822,459
+2023-05-31,Pablo Rosado,5,414,29
+2023-05-31,owidbot,7,292,17
+2023-06-01,Marigold,2,4,5
+2023-06-01,Mojmir Vinkler,1,9,9
+2023-06-01,Pablo Rosado,10,6813,1153
+2023-06-01,owidbot,8,1466,1087
+2023-06-01,veronikasamborska1994,3,3,3
+2023-06-02,Lucas Rodés-Guirao,3,11,7
+2023-06-02,Pablo Rosado,3,58,50
+2023-06-02,owidbot,2,8,8
+2023-06-02,veronikasamborska1994,1,68,204
+2023-06-03,owidbot,2,8,8
+2023-06-04,owidbot,1,6,6
+2023-06-05,Marigold,1,1,1
+2023-06-05,Pablo Rosado,7,516,147
+2023-06-05,owidbot,2,6,6
+2023-06-06,Fiona Spooner,1,411,0
+2023-06-06,Marigold,2,9,5
+2023-06-06,Pablo Arriagada,1,77,75
+2023-06-06,owidbot,1,4,4
+2023-06-07,Lucas Rodés-Guirao,1,2,0
+2023-06-07,Marigold,1,24,4
+2023-06-07,Pablo Rosado,3,830,9
+2023-06-07,owidbot,2,10,10
+2023-06-07,veronikasamborska1994,1,40,19
+2023-06-08,Lars Yencken,1,1,0
+2023-06-08,Marigold,1,6,6
+2023-06-08,Pablo Arriagada,1,1683,0
+2023-06-08,Pablo Rosado,2,6,6
+2023-06-08,owidbot,2,11,11
+2023-06-09,Edouard Mathieu,11,527,8
+2023-06-09,Fiona Spooner,3,235,150
+2023-06-09,Lucas Rodés-Guirao,1,266,100
+2023-06-09,Pablo Arriagada,1,458,0
+2023-06-09,Pablo Rosado,3,256,31
+2023-06-09,owidbot,1,6,6
+2023-06-10,owidbot,2,8,8
+2023-06-11,owidbot,1,4,4
+2023-06-12,Edouard Mathieu,1,3,1
+2023-06-12,Lucas Rodés-Guirao,1,10,1
+2023-06-12,Marigold,1,2,2
+2023-06-12,Mojmir Vinkler,2,483,11
+2023-06-12,Pablo Arriagada,1,17,6
+2023-06-12,Pablo Rosado,1,9623,0
+2023-06-12,owidbot,2,11,10
+2023-06-12,veronikasamborska1994,1,7,9
+2023-06-13,Lars Yencken,10,27798,628
+2023-06-13,Lucas Rodés-Guirao,2,251,4
+2023-06-13,Marigold,3,4,169
+2023-06-13,Mojmir Vinkler,1,416,1
+2023-06-13,Pablo Rosado,6,1879,892
+2023-06-13,owidbot,3,55,27
+2023-06-14,Lars Yencken,5,5,7
+2023-06-14,Lucas Rodés-Guirao,2,184,7
+2023-06-14,Mojmir Vinkler,1,12,7
+2023-06-14,Pablo Rosado,2,888,29
+2023-06-14,owidbot,2,10,8
+2023-06-15,Lars Yencken,6,113,91
+2023-06-15,Lucas Rodés-Guirao,2,97,20
+2023-06-15,Marigold,4,22,3
+2023-06-15,Mojmir Vinkler,1,62,30
+2023-06-15,Pablo Arriagada,1,18,18
+2023-06-15,Pablo Rosado,5,162,96
+2023-06-15,owidbot,4,15,13
+2023-06-16,Fiona Spooner,1,398,3
+2023-06-16,Pablo Arriagada,1,17,9
+2023-06-16,Pablo Rosado,4,352,79
+2023-06-16,owidbot,6,81,14
+2023-06-16,veronikasamborska1994,1,1,1
+2023-06-17,owidbot,2,7,7
+2023-06-18,owidbot,1,4,4
+2023-06-19,Fiona Spooner,1,12,6
+2023-06-19,Marigold,1,0,2
+2023-06-19,Pablo Rosado,4,234,115
+2023-06-19,owidbot,3,133,8
+2023-06-20,Fiona Spooner,1,1,1
+2023-06-20,Marigold,1,16,3
+2023-06-20,Pablo Arriagada,1,1,1
+2023-06-20,owidbot,2,11,11
+2023-06-21,Lucas Rodés-Guirao,1,50,4
+2023-06-21,Marigold,1,94,147
+2023-06-21,Mojmir Vinkler,1,98,138
+2023-06-21,Pablo Rosado,11,721,180
+2023-06-21,owidbot,1,4,4
+2023-06-22,Lars Yencken,4,7,3
+2023-06-22,Mojmir Vinkler,1,78,62
+2023-06-22,Pablo Arriagada,2,45,14
+2023-06-22,Pablo Rosado,15,117,74
+2023-06-22,owidbot,2,9,9
+2023-06-23,Lars Yencken,2,15,1
+2023-06-23,Marigold,1,12,11
+2023-06-23,Mojmir Vinkler,1,956,954
+2023-06-23,Pablo Arriagada,1,7,7
+2023-06-23,Pablo Rosado,1,1,1
+2023-06-24,Pablo Rosado,2,3,1
+2023-06-24,owidbot,1,58,26
+2023-06-25,owidbot,2,8,8
+2023-06-26,Lars Yencken,4,54,6
+2023-06-26,Mojmir Vinkler,2,1375,1769
+2023-06-26,Pablo Rosado,8,38,39
+2023-06-26,owidbot,2,8,8
+2023-06-27,Lars Yencken,4,110,8
+2023-06-27,Marigold,1,8,4
+2023-06-27,Mojmir Vinkler,1,7,7
+2023-06-27,Pablo Rosado,3,415,73
+2023-06-27,owidbot,2,10,10
+2023-06-27,veronikasamborska1994,4,6287,115
+2023-06-28,Lars Yencken,3,36,35
+2023-06-28,Marigold,4,32,868
+2023-06-28,Mojmir Vinkler,1,7733,13
+2023-06-28,Pablo Rosado,3,1275,62
+2023-06-28,owidbot,2,10,10
+2023-06-29,Lars Yencken,2,114,10
+2023-06-29,Marigold,1,3,0
+2023-06-29,Mojmir Vinkler,2,44,114
+2023-06-29,Pablo Arriagada,6,25,13
+2023-06-29,Pablo Rosado,5,134,167
+2023-06-29,owidbot,18,241,98
+2023-06-30,Fiona Spooner,2,604,6
+2023-06-30,Marigold,1,77,44
+2023-06-30,Mojmir Vinkler,2,107,106
+2023-06-30,Pablo Arriagada,1,2,2
+2023-06-30,Pablo Rosado,5,986,553
+2023-06-30,owidbot,3,14,52
+2023-06-30,veronikasamborska1994,4,887,89
+2023-07-01,Marigold,2,17,15
+2023-07-01,owidbot,2,135,50
+2023-07-02,owidbot,1,6,6
+2023-07-03,Fiona Spooner,2,1102,56
+2023-07-03,Lars Yencken,1,5,3
+2023-07-03,Marigold,2,14,85
+2023-07-03,Pablo Arriagada,2,344,138
+2023-07-03,Pablo Rosado,3,813,532
+2023-07-03,owidbot,4,115,54
+2023-07-03,veronikasamborska1994,1,2610,523
+2023-07-04,Lucas Rodés-Guirao,1,217,5
+2023-07-04,Pablo Rosado,6,374,69
+2023-07-04,owidbot,2,10,10
+2023-07-04,veronikasamborska1994,1,642,172
+2023-07-05,Fiona Spooner,1,1,2
+2023-07-05,Lucas Rodés-Guirao,2,234,6
+2023-07-05,Pablo Arriagada,3,13,13
+2023-07-05,Pablo Rosado,1,330,83
+2023-07-05,owidbot,1,4,4
+2023-07-05,veronikasamborska1994,2,668,0
+2023-07-06,Fiona Spooner,2,736,10
+2023-07-06,Pablo Arriagada,1,10,0
+2023-07-06,Pablo Rosado,6,21,16
+2023-07-06,owidbot,2,8,8
+2023-07-06,veronikasamborska1994,3,1364,154
+2023-07-07,Pablo Arriagada,2,4,1
+2023-07-07,Pablo Rosado,8,290,314
+2023-07-07,owidbot,2,10,10
+2023-07-07,veronikasamborska1994,2,437,66
+2023-07-08,owidbot,2,9,9
+2023-07-09,owidbot,1,7,7
+2023-07-10,Pablo Arriagada,1,2,2
+2023-07-10,Pablo Rosado,7,4544,113
+2023-07-10,owidbot,2,8,8
+2023-07-11,Marigold,1,9,22
+2023-07-11,Pablo Arriagada,3,24,24
+2023-07-11,Pablo Rosado,9,1933,326
+2023-07-11,owidbot,2,8,8
+2023-07-11,veronikasamborska1994,2,713,791
+2023-07-12,Lars Yencken,3,17,17
+2023-07-12,Lucas Rodés-Guirao,1,985,8
+2023-07-12,Pablo Rosado,6,3584,167
+2023-07-12,owidbot,5,108,14
+2023-07-13,Fiona Spooner,1,16,2
+2023-07-13,Marigold,1,3,3
+2023-07-13,Pablo Arriagada,3,14,11
+2023-07-13,Pablo Rosado,7,480,555
+2023-07-13,owidbot,8,106,27
+2023-07-14,Fiona Spooner,5,526,28
+2023-07-14,Mojmir Vinkler,2,528,15
+2023-07-14,Pablo Arriagada,2,682,8
+2023-07-14,Pablo Rosado,2,1,2469
+2023-07-14,owidbot,2,8,8
+2023-07-14,veronikasamborska1994,3,534,75
+2023-07-15,owidbot,2,10,10
+2023-07-15,veronikasamborska1994,1,49,13
+2023-07-16,owidbot,2,8,8
+2023-07-17,Lucas Rodés-Guirao,1,76,72
+2023-07-17,Mojmir Vinkler,2,290,173
+2023-07-17,Pablo Rosado,8,243,89
+2023-07-17,owidbot,2,8,8
+2023-07-18,Lucas Rodés-Guirao,1,464,6
+2023-07-18,Pablo Arriagada,2,12,4
+2023-07-18,Pablo Rosado,2,12,10
+2023-07-18,owidbot,2,11,11
+2023-07-19,Fiona Spooner,2,10,8
+2023-07-19,Pablo Arriagada,2,134,20
+2023-07-19,Pablo Rosado,13,4594,737
+2023-07-19,owidbot,1,4,4
+2023-07-20,Marigold,1,2,1
+2023-07-20,Pablo Arriagada,3,331,125
+2023-07-20,Pablo Rosado,2,4,7
+2023-07-20,owidbot,1,4,4
+2023-07-20,veronikasamborska1994,1,626,1618
+2023-07-21,Lars Yencken,1,1,0
+2023-07-21,Marigold,2,3822,3822
+2023-07-21,Mojmir Vinkler,1,717,496
+2023-07-21,Pablo Arriagada,1,1,1
+2023-07-21,owidbot,1,4,4
+2023-07-22,owidbot,1,4,4
+2023-07-23,owidbot,1,4,4
+2023-07-24,Marigold,1,2,2
+2023-07-24,Mojmir Vinkler,2,6223,492
+2023-07-24,Pablo Arriagada,2,71,27
+2023-07-24,Pablo Rosado,1,20,2
+2023-07-24,owidbot,1,4,4
+2023-07-24,veronikasamborska1994,2,1408,3
+2023-07-25,Pablo Rosado,2,679,2
+2023-07-25,owidbot,1,4,4
+2023-07-25,veronikasamborska1994,5,369,119
+2023-07-26,Pablo Rosado,2,162,51
+2023-07-26,owidbot,2,120,4
+2023-07-26,veronikasamborska1994,1,2426,382
+2023-07-27,Pablo Rosado,1,34,18
+2023-07-27,owidbot,2,8,8
+2023-07-28,Fiona Spooner,1,378,345
+2023-07-28,Lucas Rodés-Guirao,1,528,1
+2023-07-28,Pablo Arriagada,2,554,34
+2023-07-28,Pablo Rosado,6,49,56
+2023-07-28,owidbot,1,6,6
+2023-07-28,veronikasamborska1994,2,28,174
+2023-07-29,owidbot,2,8,8
+2023-07-30,Fiona Spooner,2,4,4
+2023-07-30,owidbot,1,4,4
+2023-07-31,Daniel Bachler,1,2,1
+2023-07-31,Fiona Spooner,2,18,18
+2023-07-31,owidbot,3,149,4
+2023-07-31,veronikasamborska1994,3,95,243
+2023-08-01,Fiona Spooner,1,21,18
+2023-08-01,Lars Yencken,2,3,4
+2023-08-01,Lucas Rodés-Guirao,4,1621,46
+2023-08-01,Pablo Rosado,1,399,0
+2023-08-01,owidbot,1,7,7
+2023-08-01,veronikasamborska1994,2,13,32
+2023-08-02,Fiona Spooner,2,557,5
+2023-08-02,Mojmir Vinkler,2,1072,854
+2023-08-02,Pablo Rosado,5,273,20
+2023-08-02,owidbot,1,4,4
+2023-08-02,veronikasamborska1994,1,791,25
+2023-08-03,Daniel Bachler,1,3,4
+2023-08-03,Fiona Spooner,1,6,1
+2023-08-03,Mojmir Vinkler,3,2927,738
+2023-08-03,Pablo Rosado,2,23,7
+2023-08-03,lucasrodes,1,2352,2446
+2023-08-03,owidbot,1,4,4
+2023-08-03,veronikasamborska1994,2,25,24
+2023-08-04,Lucas Rodés-Guirao,2,91,21
+2023-08-04,Marigold,2,19,5
+2023-08-04,Mojmir Vinkler,2,69,53
+2023-08-04,Pablo Rosado,5,577,73
+2023-08-04,owidbot,1,81,85
+2023-08-05,owidbot,2,8,8
+2023-08-06,owidbot,1,6,6
+2023-08-07,Fiona Spooner,1,363,0
+2023-08-07,Marigold,3,6,10
+2023-08-07,Mojmir Vinkler,4,724,535
+2023-08-07,owidbot,3,166,6
+2023-08-07,veronikasamborska1994,3,101,46
+2023-08-08,Fiona Spooner,2,4,3
+2023-08-08,Pablo Arriagada,3,915,714
+2023-08-08,Pablo Rosado,5,368,30
+2023-08-08,lucasrodes,1,29,15
+2023-08-08,owidbot,1,4,4
+2023-08-08,veronikasamborska1994,1,33,52
+2023-08-09,Fiona Spooner,3,4,5
+2023-08-09,Marigold,14,996,1222
+2023-08-09,Mojmir Vinkler,3,2080,1905
+2023-08-09,Pablo Rosado,8,293,53
+2023-08-09,owidbot,1,4,4
+2023-08-10,Lucas Rodés-Guirao,1,482,0
+2023-08-10,Mojmir Vinkler,2,38,19
+2023-08-10,Pablo Arriagada,1,1,0
+2023-08-10,Pablo Rosado,2,175,118
+2023-08-10,owidbot,3,13666,18654
+2023-08-11,Fiona Spooner,1,372,0
+2023-08-11,Lucas Rodés-Guirao,4,2215,6
+2023-08-11,Mojmir Vinkler,3,246,13
+2023-08-11,Pablo Rosado,6,294,92
+2023-08-11,owidbot,2,8,8
+2023-08-12,Lucas Rodés-Guirao,4,34,5
+2023-08-12,owidbot,2,11,11
+2023-08-13,owidbot,2,10,10
+2023-08-14,Marigold,1,19,4
+2023-08-14,Mojmir Vinkler,2,12,10
+2023-08-14,Pablo Rosado,2,587,3
+2023-08-14,owidbot,4,4145,4
+2023-08-15,Fiona Spooner,1,12,23
+2023-08-15,Pablo Rosado,8,654,39
+2023-08-15,owidbot,2,6,6
+2023-08-15,veronikasamborska1994,3,1110,1117
+2023-08-16,Lucas Rodés-Guirao,2,870,14
+2023-08-16,Marigold,1,1,1
+2023-08-16,Mojmir Vinkler,3,65625,1699
+2023-08-16,Pablo Rosado,4,579,22
+2023-08-16,owidbot,1,4,4
+2023-08-17,Fiona Spooner,1,2000,5
+2023-08-17,Lucas Rodés-Guirao,5,1652,179
+2023-08-17,Marigold,4,21,11
+2023-08-17,Mojmir Vinkler,2,312,327
+2023-08-17,owidbot,2,10,10
+2023-08-17,veronikasamborska1994,4,3944,49
+2023-08-18,Lucas Rodés-Guirao,1,61,7
+2023-08-18,Mojmir Vinkler,2,118,408
+2023-08-18,owidbot,4,5010,2317
+2023-08-19,owidbot,2,8,8
+2023-08-20,owidbot,1,4,4
+2023-08-21,Lucas Rodés-Guirao,2,634,340
+2023-08-21,Marigold,6,11,118
+2023-08-21,Mojmir Vinkler,4,1031,1512
+2023-08-21,owidbot,8,387,8
+2023-08-21,veronikasamborska1994,1,181,87
+2023-08-22,Lucas Rodés-Guirao,3,1037,71
+2023-08-22,Marigold,1,162,361
+2023-08-22,Mojmir Vinkler,1,30,4
+2023-08-22,Pablo Rosado,4,211,9
+2023-08-22,owidbot,7,209,21
+2023-08-23,Lucas Rodés-Guirao,1,72,20
+2023-08-23,Marigold,1,6,2
+2023-08-23,Mojmir Vinkler,1,22,11
+2023-08-23,owidbot,5,92,10
+2023-08-23,veronikasamborska1994,1,2,5
+2023-08-24,Lucas Rodés-Guirao,1,1,0
+2023-08-24,Mojmir Vinkler,3,513,1012
+2023-08-24,owidbot,2,10,10
+2023-08-25,Lucas Rodés-Guirao,2,61,49
+2023-08-25,Marigold,1,5,1
+2023-08-25,Matthieu Bergel,1,9,9
+2023-08-25,Mojmir Vinkler,3,1000,396
+2023-08-25,owidbot,2,8,8
+2023-08-26,owidbot,2,8,8
+2023-08-27,owidbot,2,8,8
+2023-08-28,Marigold,1,5,12
+2023-08-28,owidbot,1,6,6
+2023-08-28,veronikasamborska1994,2,9,1
+2023-08-29,Lucas Rodés-Guirao,1,8,5
+2023-08-29,Marigold,1,4,0
+2023-08-29,owidbot,2,8,8
+2023-08-29,veronikasamborska1994,2,436,173
+2023-08-30,Fiona Spooner,1,632,124
+2023-08-30,Lucas Rodés-Guirao,1,3728,66
+2023-08-30,Marigold,1,2,2
+2023-08-30,Mojmir Vinkler,1,46,47
+2023-08-30,owidbot,3,77,8
+2023-08-30,veronikasamborska1994,5,156,30
+2023-08-31,owidbot,1,4,4
+2023-09-01,Marigold,2,22,34
+2023-09-01,Mojmir Vinkler,1,222,39
+2023-09-01,Pablo Rosado,3,345,45
+2023-09-01,owidbot,2,10,10
+2023-09-02,owidbot,2,8,8
+2023-09-03,owidbot,2,9,9
+2023-09-04,Fiona Spooner,1,2,2
+2023-09-04,Marigold,2,0,5
+2023-09-04,Pablo Rosado,6,576,394
+2023-09-04,owidbot,2,8,8
+2023-09-05,Lucas Rodés-Guirao,1,128,34
+2023-09-05,Marigold,3,61,29
+2023-09-05,Pablo Arriagada,2,4785,257
+2023-09-05,Pablo Rosado,4,505,23
+2023-09-05,lucasrodes,1,1,1
+2023-09-05,owidbot,10,1401,567
+2023-09-06,Marigold,1,3,3
+2023-09-06,Mojmir Vinkler,1,27,45
+2023-09-06,Pablo Arriagada,1,6,6
+2023-09-06,Pablo Rosado,9,220,137
+2023-09-06,owidbot,1,9,9
+2023-09-07,Lucas Rodés-Guirao,2,68,30
+2023-09-07,Pablo Arriagada,2,201,21
+2023-09-07,Pablo Rosado,6,594,284
+2023-09-07,owidbot,2,8,8
+2023-09-08,Lucas Rodés-Guirao,2,124,69
+2023-09-08,Mojmir Vinkler,1,832,403
+2023-09-08,Pablo Rosado,8,467,70
+2023-09-08,owidbot,2,8,8
+2023-09-09,owidbot,2,8,8
+2023-09-10,owidbot,1,4,4
+2023-09-11,Lucas Rodés-Guirao,1,3,0
+2023-09-11,owidbot,2,8,8
+2023-09-12,Lucas Rodés-Guirao,3,416,117
+2023-09-12,Marigold,4,76,7
+2023-09-12,Mojmir Vinkler,1,95,9
+2023-09-12,Pablo Rosado,8,245,115
+2023-09-12,owidbot,1,4,4
+2023-09-13,Lucas Rodés-Guirao,2,29,0
+2023-09-13,Mojmir Vinkler,2,365,345
+2023-09-13,Pablo Rosado,1,119,55
+2023-09-13,lucasrodes,1,53,1
+2023-09-14,Lucas Rodés-Guirao,13,548,511
+2023-09-14,Mojmir Vinkler,1,101,19
+2023-09-14,Pablo Rosado,5,2086,1402
+2023-09-14,owidbot,2,8,8
+2023-09-15,owidbot,2,8,8
+2023-09-16,owidbot,1,4,4
+2023-09-17,owidbot,2,10,10
+2023-09-18,Fiona Spooner,1,18,4
+2023-09-18,Lucas Rodés-Guirao,3,102,10
+2023-09-18,Pablo Rosado,1,17,28
+2023-09-18,owidbot,3,94,28
+2023-09-18,veronikasamborska1994,2,22,12
+2023-09-19,Lucas Rodés-Guirao,1,321,89
+2023-09-19,Mojmir Vinkler,2,1343,1150
+2023-09-19,Pablo Rosado,2,167,5
+2023-09-19,lucasrodes,2,43,42
+2023-09-19,owidbot,3,14,14
+2023-09-19,veronikasamborska1994,2,322,84
+2023-09-20,Lucas Rodés-Guirao,1,13,11
+2023-09-20,Marigold,1,9,3
+2023-09-20,Mojmir Vinkler,1,5,13
+2023-09-20,Pablo Rosado,2,2190,67
+2023-09-20,owidbot,5,107,20
+2023-09-21,Fiona Spooner,2,1192,7
+2023-09-21,Lucas Rodés-Guirao,2,144,23
+2023-09-21,Marigold,1,1,0
+2023-09-21,Pablo Rosado,3,84,25
+2023-09-21,owidbot,2,8,8
+2023-09-22,Lucas Rodés-Guirao,1,6644,196
+2023-09-22,Marigold,1,27,27
+2023-09-22,Mojmir Vinkler,3,161,103
+2023-09-22,owidbot,3,11,8
+2023-09-23,owidbot,1,6,6
+2023-09-23,veronikasamborska1994,1,1149,2
+2023-09-24,owidbot,1,4,4
+2023-09-25,Lucas Rodés-Guirao,2,640,160
+2023-09-25,Marigold,4,50,37
+2023-09-25,Mojmir Vinkler,2,343,168
+2023-09-25,Pablo Rosado,2,322,744
+2023-09-25,lucasrodes,1,16,5
+2023-09-25,owidbot,2,8,8
+2023-09-26,Lucas Rodés-Guirao,1,794,62
+2023-09-26,Mojmir Vinkler,1,568,1187
+2023-09-26,Pablo Rosado,9,179,87
+2023-09-26,owidbot,2,8,8
+2023-09-27,Fiona Spooner,1,476,0
+2023-09-27,Lucas Rodés-Guirao,1,1008,1
+2023-09-27,Marigold,1,13,2
+2023-09-27,Pablo Rosado,3,94,42
+2023-09-27,owidbot,1,4,4
+2023-09-28,Lucas Rodés-Guirao,1,20,0
+2023-09-28,Marigold,3,20,5
+2023-09-28,Mojmir Vinkler,3,257,124
+2023-09-28,Pablo Arriagada,2,747,6
+2023-09-28,Pablo Rosado,3,2797,21
+2023-09-28,owidbot,2,8,8
+2023-09-28,veronikasamborska1994,1,2343,0
+2023-09-29,Lucas Rodés-Guirao,5,1749,125
+2023-09-29,Marigold,4,26,16
+2023-09-29,Mojmir Vinkler,4,260,292
+2023-09-29,Pablo Rosado,6,367,318
+2023-09-29,owidbot,3,111,8
+2023-09-29,veronikasamborska1994,1,200,36
+2023-09-30,owidbot,2,8,8
+2023-10-01,owidbot,1,4,4
+2023-10-02,Lucas Rodés-Guirao,1,47,47
+2023-10-02,Marigold,1,1,1
+2023-10-02,Mojmir Vinkler,4,551,45
+2023-10-02,Pablo Arriagada,6,116,38
+2023-10-02,Pablo Rosado,7,191,96
+2023-10-02,owidbot,2,8,8
+2023-10-02,veronikasamborska1994,1,196,18
+2023-10-03,Fiona Spooner,1,551,21
+2023-10-03,Lucas Rodés-Guirao,4,2629,842
+2023-10-03,Marigold,1,1,0
+2023-10-03,Mojmir Vinkler,2,27,1
+2023-10-03,Pablo Arriagada,1,16,10
+2023-10-03,Pablo Rosado,1,34,35
+2023-10-03,owidbot,2,8,8
+2023-10-04,Lucas Rodés-Guirao,1,441,0
+2023-10-04,Mojmir Vinkler,2,210,8
+2023-10-04,Pablo Rosado,2,213,223
+2023-10-04,owidbot,1,4,4
+2023-10-04,veronikasamborska1994,2,271,31
+2023-10-05,Lucas Rodés-Guirao,3,182,50
+2023-10-05,Marigold,1,2,0
+2023-10-05,Mojmir Vinkler,1,598,12
+2023-10-05,Pablo Arriagada,4,34,4
+2023-10-05,Pablo Rosado,2,63,41
+2023-10-05,owidbot,2,70,6
+2023-10-05,veronikasamborska1994,1,247,7
+2023-10-06,Lucas Rodés-Guirao,1,211,0
+2023-10-06,Marigold,3,11,3
+2023-10-06,Mojmir Vinkler,1,5,2
+2023-10-06,Pablo Arriagada,4,101,20
+2023-10-06,Pablo Rosado,4,184,63
+2023-10-06,owidbot,2,12,12
+2023-10-07,Marigold,1,0,4
+2023-10-07,owidbot,1,4,4
+2023-10-08,Mojmir Vinkler,1,164,248
+2023-10-08,owidbot,1,4,4
+2023-10-09,Marigold,1,17,4
+2023-10-09,Mojmir Vinkler,2,537,139
+2023-10-09,Pablo Rosado,6,203,113
+2023-10-09,owidbot,2,8,8
+2023-10-10,Fiona Spooner,1,501,59
+2023-10-10,Lucas Rodés-Guirao,2,933,634
+2023-10-10,Marigold,1,1,1
+2023-10-10,Mojmir Vinkler,1,173,4060
+2023-10-10,Pablo Rosado,5,444,23
+2023-10-10,owidbot,1,6,6
+2023-10-10,veronikasamborska1994,2,1866,1
+2023-10-11,Fiona Spooner,1,59,28
+2023-10-11,Marigold,1,9,2
+2023-10-11,Pablo Rosado,2,11,8
+2023-10-11,owidbot,2,9,9
+2023-10-11,veronikasamborska1994,1,18,10
+2023-10-12,Fiona Spooner,1,97,51
+2023-10-12,Lucas Rodés-Guirao,5,1922,232
+2023-10-12,Mojmir Vinkler,4,889,35
+2023-10-12,Pablo Arriagada,1,8,8
+2023-10-12,Pablo Rosado,5,210,71
+2023-10-12,owidbot,2,61,53
+2023-10-12,veronikasamborska1994,1,1,1
+2023-10-13,Fiona Spooner,2,24,2
+2023-10-13,Marigold,6,27,22
+2023-10-13,Mojmir Vinkler,1,24,11
+2023-10-13,Pablo Rosado,4,406,191
+2023-10-13,owidbot,2,8,8
+2023-10-13,veronikasamborska1994,2,1105,58
+2023-10-14,owidbot,2,8,8
+2023-10-15,owidbot,1,6,6
+2023-10-16,Mojmir Vinkler,2,62,25
+2023-10-16,Pablo Rosado,4,68,35
+2023-10-16,owidbot,2,21,21
+2023-10-17,Marigold,1,0,38
+2023-10-17,Mojmir Vinkler,1,19,18
+2023-10-17,Pablo Arriagada,2,4,0
+2023-10-17,Pablo Rosado,1,2,106
+2023-10-17,owidbot,2,17,17
+2023-10-17,veronikasamborska1994,1,3,3
+2023-10-18,Lucas Rodés-Guirao,2,30,13
+2023-10-18,Marigold,2,0,0
+2023-10-18,Pablo Rosado,5,568,204
+2023-10-18,lucasrodes,6,95,44
+2023-10-18,owidbot,1,4,4
+2023-10-18,veronikasamborska1994,2,598,9
+2023-10-19,Lucas Rodés-Guirao,3,494,74
+2023-10-19,Pablo Rosado,6,1813,134
+2023-10-19,owidbot,2,8,8
+2023-10-19,veronikasamborska1994,1,4,0
+2023-10-20,Lucas Rodés-Guirao,3,201,30
+2023-10-20,Marigold,2,62,25
+2023-10-20,Mojmir Vinkler,4,647,207
+2023-10-20,Pablo Arriagada,1,842,1
+2023-10-20,Pablo Rosado,6,724,1356
+2023-10-20,owidbot,2,8,8
+2023-10-20,veronikasamborska1994,1,8,8
+2023-10-21,owidbot,1,6,6
+2023-10-22,owidbot,1,5,5
+2023-10-23,Lucas Rodés-Guirao,4,274,38
+2023-10-23,Marigold,3,4,1
+2023-10-23,Mojmir Vinkler,2,33,5
+2023-10-23,Pablo Rosado,4,31,3
+2023-10-23,owidbot,1,4,4
+2023-10-24,Daniel Bachler,1,131,1
+2023-10-24,Lucas Rodés-Guirao,1,23,3
+2023-10-24,Pablo Rosado,4,658,72
+2023-10-24,owidbot,2,8,8
+2023-10-24,veronikasamborska1994,1,254,165
+2023-10-25,Lucas Rodés-Guirao,3,354,39
+2023-10-25,Marigold,1,1,12
+2023-10-25,Mojmir Vinkler,3,188,33
+2023-10-25,Pablo Arriagada,2,117,34
+2023-10-25,Pablo Rosado,2,24,19
+2023-10-25,owidbot,2,7,7
+2023-10-26,Fiona Spooner,1,6,4
+2023-10-26,Lucas Rodés-Guirao,2,60,6
+2023-10-26,Mojmir Vinkler,1,11,7
+2023-10-26,Pablo Arriagada,1,271,15
+2023-10-26,owidbot,1,6,6
+2023-10-27,Lucas Rodés-Guirao,3,451,169
+2023-10-27,Marigold,1,1,1
+2023-10-27,Mojmir Vinkler,4,374,10
+2023-10-27,Pablo Rosado,1,0,0
+2023-10-27,owidbot,2,8,8
+2023-10-28,owidbot,1,6,6
+2023-10-29,owidbot,1,4,4
+2023-10-30,Lucas Rodés-Guirao,1,19,7
+2023-10-30,Mojmir Vinkler,1,22,13
+2023-10-30,Pablo Arriagada,1,1,26
+2023-10-30,owidbot,1,4,4
+2023-10-31,Pablo Rosado,2,378,27
+2023-10-31,owidbot,1,4,4
+2023-11-01,Lucas Rodés-Guirao,2,287,70
+2023-11-01,Pablo Arriagada,4,689,41
+2023-11-01,Pablo Rosado,1,135,5
+2023-11-01,owidbot,1,4,4
+2023-11-01,veronikasamborska1994,2,1553,25
+2023-11-02,Daniel Bachler,2,28,7
+2023-11-02,Edouard Mathieu,3,160,6
+2023-11-02,Marigold,2,5,3
+2023-11-02,Mojmir Vinkler,1,29,6
+2023-11-02,Pablo Rosado,3,62,51
+2023-11-02,owidbot,1,6,6
+2023-11-03,Fiona Spooner,1,1095,74
+2023-11-03,Marigold,1,11,6
+2023-11-03,Pablo Arriagada,2,13,21
+2023-11-03,owidbot,2,8,8
+2023-11-03,veronikasamborska1994,2,22,10
+2023-11-04,owidbot,1,4,4
+2023-11-05,owidbot,1,4,4
+2023-11-06,Daniel Bachler,1,1,1
+2023-11-06,Mojmir Vinkler,2,553,792
+2023-11-06,Pablo Rosado,1,1202,15
+2023-11-06,owidbot,1,4,4
+2023-11-06,veronikasamborska1994,2,316,13
+2023-11-07,Lucas Rodés-Guirao,1,3,0
+2023-11-07,Mojmir Vinkler,3,33,14
+2023-11-07,Pablo Arriagada,3,51,54
+2023-11-07,Pablo Rosado,4,227,8
+2023-11-07,owidbot,1,6,6
+2023-11-07,veronikasamborska1994,3,41,30
+2023-11-08,Fiona Spooner,4,261,104
+2023-11-08,Lucas Rodés-Guirao,2,1578,295
+2023-11-08,Marigold,2,12,7
+2023-11-08,Mojmir Vinkler,4,261,257
+2023-11-08,Pablo Rosado,4,576,375
+2023-11-08,owidbot,1,4,4
+2023-11-09,Fiona Spooner,1,39,18
+2023-11-09,Lucas Rodés-Guirao,1,668,10
+2023-11-09,Marigold,1,1,60
+2023-11-09,Mojmir Vinkler,1,8,4
+2023-11-09,Pablo Arriagada,4,976,13
+2023-11-09,Pablo Rosado,2,1,1
+2023-11-09,owidbot,2,8,8
+2023-11-10,Lucas Rodés-Guirao,2,14,0
+2023-11-10,Marigold,2,45,26
+2023-11-10,Pablo Arriagada,1,1,1
+2023-11-10,Pablo Rosado,1,17,17
+2023-11-10,owidbot,2,10,10
+2023-11-11,owidbot,1,4,4
+2023-11-12,owidbot,2,8,8
+2023-11-13,owidbot,2,7,7
+2023-11-14,owidbot,2,13,13
+2023-11-15,owidbot,2,8,8
+2023-11-16,owidbot,2,8,8
+2023-11-17,owidbot,1,4,4
+2023-11-18,owidbot,1,4,4
+2023-11-19,owidbot,2,8,8
+2023-11-20,Fiona Spooner,1,4,2
+2023-11-20,Marigold,1,336,603
+2023-11-20,Mojmir Vinkler,1,42,39
+2023-11-20,Pablo Rosado,1,161,88
+2023-11-20,owidbot,2,8,8
+2023-11-21,Fiona Spooner,1,494,0
+2023-11-21,Lars Yencken,1,216,849
+2023-11-21,Marigold,3,7,3
+2023-11-21,Pablo Rosado,1,25,0
+2023-11-21,owidbot,2,8,8
+2023-11-21,veronikasamborska1994,1,284,417
+2023-11-22,Lucas Rodés-Guirao,3,352,187
+2023-11-22,Marigold,1,20,14
+2023-11-22,Pablo Arriagada,6,1246,14
+2023-11-22,owidbot,2,8,8
+2023-11-23,Lucas Rodés-Guirao,4,106,23
+2023-11-23,Mojmir Vinkler,4,1017,557
+2023-11-23,owidbot,2,10,10
+2023-11-23,veronikasamborska1994,1,572,2120
+2023-11-24,Edouard Mathieu,8,342,13
+2023-11-24,Pablo Rosado,1,1549,14
+2023-11-24,owidbot,2,8,8
+2023-11-25,owidbot,2,8,8
+2023-11-25,veronikasamborska1994,1,23,10
+2023-11-26,Lucas Rodés-Guirao,1,226,158
+2023-11-26,owidbot,2,8,8
+2023-11-27,Edouard Mathieu,5,64,33
+2023-11-27,Lucas Rodés-Guirao,2,148,134
+2023-11-27,Mojmir Vinkler,1,6,2
+2023-11-27,Pablo Arriagada,4,186,10
+2023-11-27,Pablo Rosado,1,3,0
+2023-11-27,owidbot,2,8,8
+2023-11-28,Edouard Mathieu,4,204,1
+2023-11-28,Fiona Spooner,1,23,8
+2023-11-28,Lucas Rodés-Guirao,4,49,79
+2023-11-28,Mojmir Vinkler,4,359,201
+2023-11-28,owidbot,2,7,7
+2023-11-28,veronikasamborska1994,1,2,0
+2023-11-29,Fiona Spooner,1,805,4
+2023-11-29,Mojmir Vinkler,1,457,49
+2023-11-29,Pablo Arriagada,2,1803,78
+2023-11-29,owidbot,1,4,4
+2023-11-29,veronikasamborska1994,1,14,11
+2023-11-30,Fiona Spooner,1,4,4
+2023-11-30,Marigold,1,0,2
+2023-11-30,Mojmir Vinkler,1,11,0
+2023-11-30,Pablo Arriagada,5,8872,10
+2023-11-30,owidbot,2,8,8
+2023-11-30,veronikasamborska1994,1,101,163
+2023-12-01,Fiona Spooner,1,7,8
+2023-12-01,Pablo Arriagada,1,3,3
+2023-12-01,owidbot,4,73,13
+2023-12-01,spoonerf,2,559,16
+2023-12-01,veronikasamborska1994,1,8,14
+2023-12-02,owidbot,2,8,8
+2023-12-03,owidbot,2,9,9
+2023-12-04,Fiona Spooner,1,34,0
+2023-12-04,Lucas Rodés-Guirao,1,1633,39
+2023-12-04,Mojmir Vinkler,2,234,27
+2023-12-04,Pablo Arriagada,1,8,8
+2023-12-04,owidbot,4,15,15
+2023-12-05,Fiona Spooner,1,669,4
+2023-12-05,Marigold,3,17,8
+2023-12-05,Mojmir Vinkler,2,10,10
+2023-12-05,Pablo Rosado,4,3096,86
+2023-12-05,owidbot,3,60,8
+2023-12-05,veronikasamborska1994,4,289,289
+2023-12-06,Fiona Spooner,3,1463,28
+2023-12-06,Mojmir Vinkler,2,1325,212
+2023-12-06,owidbot,5,34,37
+2023-12-07,Marigold,1,4,0
+2023-12-07,Pablo Rosado,2,202,69
+2023-12-07,dependabot[bot],12,274,222
+2023-12-07,owidbot,2,8,8
+2023-12-08,Mojmir Vinkler,3,273,67
+2023-12-08,owidbot,1,6,6
+2023-12-09,owidbot,2,8,8
+2023-12-10,owidbot,2,8,8
+2023-12-11,Fiona Spooner,3,1136,25
+2023-12-11,Lucas Rodés-Guirao,1,135,29
+2023-12-11,Pablo Rosado,1,38,49
+2023-12-11,owidbot,1,4,4
+2023-12-12,Fiona Spooner,3,1861,42
+2023-12-12,Lucas Rodés-Guirao,1,96,50
+2023-12-12,Marigold,5,12,9
+2023-12-12,Mojmir Vinkler,4,353,121
+2023-12-12,Pablo Rosado,1,1445,63
+2023-12-12,owidbot,2,12,12
+2023-12-12,spoonerf,2,14,1
+2023-12-13,Fiona Spooner,6,228,57
+2023-12-13,Lucas Rodés-Guirao,1,3,0
+2023-12-13,Pablo Rosado,2,15,5
+2023-12-13,owidbot,2,8,7
+2023-12-14,Fiona Spooner,1,36,7
+2023-12-14,Lucas Rodés-Guirao,3,94,75
+2023-12-14,Marigold,1,15,6
+2023-12-14,Mojmir Vinkler,2,82,112
+2023-12-14,Pablo Rosado,2,82,1
+2023-12-14,owidbot,1,4,4
+2023-12-14,veronikasamborska1994,1,691,1
+2023-12-15,Fiona Spooner,1,17,0
+2023-12-15,Lucas Rodés-Guirao,2,52,28
+2023-12-15,Marigold,1,2,1
+2023-12-15,Pablo Rosado,5,15647,263
+2023-12-15,owidbot,1,6,6
+2023-12-16,owidbot,2,8,8
+2023-12-17,owidbot,2,7,7
+2023-12-18,Lucas Rodés-Guirao,4,336,60
+2023-12-18,Marigold,1,3,3
+2023-12-18,Mojmir Vinkler,2,509,70
+2023-12-18,Pablo Rosado,4,823,1108
+2023-12-18,owidbot,2,8,8
+2023-12-18,veronikasamborska1994,2,378,32
+2023-12-19,Lucas Rodés-Guirao,1,61,86
+2023-12-19,Marigold,4,29,7
+2023-12-19,Mojmir Vinkler,1,15,6
+2023-12-19,owidbot,2,11,11
+2023-12-19,veronikasamborska1994,2,716,75
+2023-12-20,Fiona Spooner,1,41,9
+2023-12-20,Marigold,1,51,2
+2023-12-20,Pablo Rosado,4,333,349
+2023-12-20,owidbot,2,8,8
+2023-12-21,Pablo Rosado,2,127,82
+2023-12-21,owidbot,2,8,8
+2023-12-22,owidbot,2,8,8
+2023-12-23,owidbot,1,6,6
+2023-12-24,owidbot,2,10,10
+2023-12-25,owidbot,2,8,8
+2023-12-26,owidbot,2,7,7
+2023-12-27,Lucas Rodés-Guirao,1,599,165
+2023-12-27,Pablo Rosado,4,60,17
+2023-12-27,owidbot,1,4,4
+2023-12-28,Lucas Rodés-Guirao,1,290,0
+2023-12-28,Pablo Rosado,2,3233,297
+2023-12-28,owidbot,2,10,10
+2023-12-29,Mojmir Vinkler,1,149,0
+2023-12-29,owidbot,1,4,4
+2023-12-30,owidbot,1,4,4
+2023-12-31,owidbot,2,8,8
+2024-01-01,owidbot,2,7,7
+2024-01-02,Lucas Rodés-Guirao,2,1822,1697
+2024-01-02,Marigold,1,4,1
+2024-01-02,Pablo Arriagada,1,1027,12
+2024-01-02,owidbot,2,8,8
+2024-01-03,Edouard Mathieu,7,234,12
+2024-01-03,Lucas Rodés-Guirao,1,3,3
+2024-01-03,Mojmir Vinkler,1,0,1
+2024-01-03,Pablo Arriagada,1,9,15
+2024-01-03,owidbot,2,8,8
+2024-01-04,Edouard Mathieu,7,443,3
+2024-01-04,Fiona Spooner,2,89,20
+2024-01-04,Lucas Rodés-Guirao,2,789,18
+2024-01-04,Pablo Rosado,1,21,10
+2024-01-04,owidbot,2,8,8
+2024-01-04,veronikasamborska1994,2,788,5
+2024-01-05,Lucas Rodés-Guirao,1,0,0
+2024-01-05,Pablo Arriagada,2,1,1
+2024-01-05,owidbot,1,4,4
+2024-01-06,owidbot,2,10,10
+2024-01-07,owidbot,2,8,8
+2024-01-08,Fiona Spooner,1,19,17
+2024-01-08,Lucas Rodés-Guirao,1,208,52
+2024-01-08,owidbot,1,4,4
+2024-01-09,Marigold,1,1,1
+2024-01-09,Mojmir Vinkler,1,76,47
+2024-01-09,Pablo Rosado,1,0,108
+2024-01-09,owidbot,2,10,10
+2024-01-10,Lucas Rodés-Guirao,1,38,19
+2024-01-10,owidbot,2,8,8
+2024-01-11,Lucas Rodés-Guirao,1,15,3
+2024-01-11,Pablo Arriagada,1,553,121
+2024-01-11,Pablo Rosado,2,492,1
+2024-01-11,owidbot,2,8,8
+2024-01-12,Pablo Rosado,1,430,0
+2024-01-12,owidbot,1,4,4
+2024-01-13,owidbot,2,8,8
+2024-01-14,owidbot,2,8,8
+2024-01-15,Marigold,1,5,17
+2024-01-15,Pablo Rosado,2,715,0
+2024-01-15,owidbot,2,8,8
+2024-01-16,Marigold,3,22,21
+2024-01-16,Pablo Arriagada,1,1,0
+2024-01-16,Pablo Rosado,2,282,1
+2024-01-16,owidbot,2,12,12
+2024-01-17,Mojmir Vinkler,1,1,1
+2024-01-17,owidbot,1,6,6
+2024-01-17,veronikasamborska1994,1,71,35
+2024-01-18,owidbot,2,8,8
+2024-01-19,Lucas Rodés-Guirao,1,8,0
+2024-01-19,Pablo Rosado,1,36,39
+2024-01-19,owidbot,1,4,4
+2024-01-19,veronikasamborska1994,1,911,327
+2024-01-20,owidbot,1,4,4
+2024-01-21,owidbot,1,4,4
+2024-01-21,veronikasamborska1994,1,1058,6
+2024-01-22,Lucas Rodés-Guirao,1,26,9
+2024-01-22,Mojmir Vinkler,1,20,3
+2024-01-22,Pablo Rosado,2,47,47
+2024-01-22,owidbot,1,4,4
+2024-01-23,Marigold,1,4,41
+2024-01-23,Mojmir Vinkler,1,189,10
+2024-01-23,Pablo Arriagada,2,466,1
+2024-01-23,Pablo Rosado,1,102,8
+2024-01-23,lucasrodes,1,12,1
+2024-01-23,owidbot,1,6,6
+2024-01-24,Lars Yencken,1,10,7
+2024-01-24,Lucas Rodés-Guirao,1,0,262
+2024-01-24,Marigold,2,13,12
+2024-01-24,Mojmir Vinkler,2,1360,62
+2024-01-24,owidbot,1,4,4
+2024-01-25,Marigold,1,0,2
+2024-01-25,Pablo Rosado,4,1192,31
+2024-01-26,Marigold,2,8,3
+2024-01-26,Pablo Rosado,3,25,16
+2024-01-26,owidbot,1,4,4
+2024-01-26,veronikasamborska1994,2,2720,2
+2024-01-27,owidbot,1,4,4
+2024-01-28,owidbot,1,4,4
+2024-01-29,Fiona Spooner,2,43,26
+2024-01-29,Lars Yencken,1,1,2
+2024-01-29,Mojmir Vinkler,1,20,12
+2024-01-29,owidbot,2,60,23
+2024-01-30,Lucas Rodés-Guirao,1,35,18
+2024-01-30,Mojmir Vinkler,2,349,325
+2024-01-30,Pablo Rosado,2,439,8
+2024-01-30,owidbot,2,8,8
+2024-01-30,veronikasamborska1994,1,980,0
+2024-01-31,Fiona Spooner,1,376,9
+2024-01-31,Pablo Arriagada,2,4711,78
+2024-01-31,Pablo Rosado,1,5,6
+2024-01-31,owidbot,1,4,4
+2024-01-31,veronikasamborska1994,1,14,50
+2024-02-01,Pablo Arriagada,1,42,8
+2024-02-01,Pablo Rosado,1,9,3
+2024-02-01,owidbot,1,36,129
+2024-02-01,veronikasamborska1994,2,396,36
+2024-02-02,Lucas Rodés-Guirao,3,2457,43
+2024-02-02,Mojmir Vinkler,1,16,9
+2024-02-02,Pablo Rosado,1,0,6
+2024-02-02,owidbot,1,6,6
+2024-02-02,veronikasamborska1994,1,641,12
+2024-02-03,Lucas Rodés-Guirao,1,17,5
+2024-02-03,Marigold,1,4,41
+2024-02-05,Fiona Spooner,1,4,3
+2024-02-05,Pablo Rosado,1,3682,20
+2024-02-05,veronikasamborska1994,2,60,19
+2024-02-06,Pablo Rosado,2,407,232
+2024-02-06,owidbot,3,135,21
+2024-02-06,veronikasamborska1994,1,161,0
+2024-02-07,Lars Yencken,2,42,2
+2024-02-07,Pablo Rosado,1,0,4
+2024-02-07,owidbot,1,4,4
+2024-02-08,Fiona Spooner,1,1023,14
+2024-02-08,owidbot,1,4,4
+2024-02-08,veronikasamborska1994,2,180,5
+2024-02-09,Lars Yencken,3,21,51
+2024-02-09,Lucas Rodés-Guirao,2,35,7
+2024-02-09,Pablo Arriagada,3,1089,108
+2024-02-09,owidbot,2,8,8
+2024-02-09,veronikasamborska1994,1,16,16
+2024-02-10,Lucas Rodés-Guirao,2,1770,176
+2024-02-10,owidbot,1,4,4
+2024-02-11,owidbot,1,6,6
+2024-02-12,Fiona Spooner,2,37,3
+2024-02-12,Lucas Rodés-Guirao,1,5,423
+2024-02-12,Marigold,3,23,5
+2024-02-12,Pablo Arriagada,3,319,145
+2024-02-12,Pablo Rosado,1,564,1929
+2024-02-12,owidbot,1,4,4
+2024-02-12,veronikasamborska1994,1,239,18
+2024-02-13,Fiona Spooner,1,2,2
+2024-02-13,Lars Yencken,1,2,2
+2024-02-13,Lucas Rodés-Guirao,3,1454,651
+2024-02-13,Mojmir Vinkler,1,75,28
+2024-02-13,Pablo Rosado,1,5,0
+2024-02-13,owidbot,3,159,4
+2024-02-14,Mojmir Vinkler,1,174,0
+2024-02-14,Pablo Rosado,2,1079,771
+2024-02-14,owidbot,1,4,4
+2024-02-15,Fiona Spooner,2,710,0
+2024-02-15,Marigold,1,4,0
+2024-02-15,Pablo Arriagada,1,5,5
+2024-02-15,owidbot,2,8,8
+2024-02-15,veronikasamborska1994,4,506,23
+2024-02-16,Lucas Rodés-Guirao,1,939,509
+2024-02-16,Marigold,1,6,4
+2024-02-16,owidbot,4,256,259
+2024-02-17,owidbot,1,4,4
+2024-02-18,owidbot,4,147,8
+2024-02-19,Lucas Rodés-Guirao,2,1447,585
+2024-02-19,Mojmir Vinkler,1,27,2
+2024-02-19,owidbot,5,103,48
+2024-02-20,Lucas Rodés-Guirao,4,821,41
+2024-02-20,Mojmir Vinkler,1,87,1541
+2024-02-20,owidbot,2,61,7
+2024-02-21,Lucas Rodés-Guirao,1,18,1
+2024-02-21,Marigold,2,6,5
+2024-02-21,Mojmir Vinkler,1,36,17
+2024-02-21,Pablo Rosado,2,973,10
+2024-02-21,owidbot,1,2,2
+2024-02-21,veronikasamborska1994,1,1233,17
+2024-02-22,Lucas Rodés-Guirao,2,135,101
+2024-02-22,Marigold,3,12,6
+2024-02-22,Mojmir Vinkler,2,86,106
+2024-02-22,Pablo Arriagada,1,3320,15
+2024-02-22,owidbot,1,19,26
+2024-02-22,veronikasamborska1994,1,143,58
+2024-02-23,Marigold,1,3,1
+2024-02-23,Mojmir Vinkler,2,36,32
+2024-02-23,Pablo Arriagada,3,150,116
+2024-02-23,Pablo Rosado,1,0,108
+2024-02-23,owidbot,4,87,13
+2024-02-24,owidbot,1,7,7
+2024-02-25,Lucas Rodés-Guirao,1,53,52
+2024-02-25,owidbot,2,8,8
+2024-02-26,Lucas Rodés-Guirao,2,3563,1380
+2024-02-26,Marigold,1,1,1
+2024-02-26,Mojmir Vinkler,3,535,671
+2024-02-26,owidbot,2,5,5
+2024-02-27,Lucas Rodés-Guirao,1,41,22
+2024-02-27,Marigold,2,2,2
+2024-02-27,Pablo Arriagada,2,966,318
+2024-02-27,owidbot,3,70,72
+2024-02-28,Lucas Rodés-Guirao,2,330,93
+2024-02-28,Pablo Arriagada,1,100,100
+2024-02-28,Pablo Rosado,1,175,2
+2024-02-28,owidbot,3,15,11
+2024-02-28,veronikasamborska1994,1,2,4
+2024-02-29,Lars Yencken,1,1,1
+2024-02-29,Lucas Rodés-Guirao,3,422,110
+2024-02-29,Marigold,1,9,5
+2024-02-29,Mojmir Vinkler,1,103,39
+2024-02-29,Pablo Arriagada,1,142,3
+2024-02-29,owidbot,2,16,11
+2024-03-01,owidbot,2,8,8
+2024-03-02,owidbot,2,8,8
+2024-03-03,owidbot,2,8,8
+2024-03-04,Lucas Rodés-Guirao,1,261,120
+2024-03-04,Mojmir Vinkler,1,4,22
+2024-03-04,owidbot,2,8,8
+2024-03-04,veronikasamborska1994,2,25,30
+2024-03-05,Lucas Rodés-Guirao,4,565,1500
+2024-03-05,Marigold,1,1,1
+2024-03-05,Mojmir Vinkler,1,14,49
+2024-03-05,Pablo Rosado,2,1575,77
+2024-03-05,owidbot,2,8,8
+2024-03-05,tristannew,1,27,0
+2024-03-06,Lucas Rodés-Guirao,1,2,2
+2024-03-06,Marigold,1,11,1
+2024-03-06,Mojmir Vinkler,1,1508,1
+2024-03-06,Pablo Rosado,1,5,10
+2024-03-06,owidbot,2,8,8
+2024-03-06,veronikasamborska1994,2,1382,2
+2024-03-07,Lucas Rodés-Guirao,3,165,35
+2024-03-07,Pablo Rosado,1,27,27
+2024-03-07,owidbot,1,4,4
+2024-03-08,Lucas Rodés-Guirao,1,1,1
+2024-03-08,Pablo Arriagada,2,1468,15
+2024-03-08,Pablo Rosado,1,250,73
+2024-03-08,owidbot,1,6,6
+2024-03-08,veronikasamborska1994,2,84,187
+2024-03-09,owidbot,1,4,4
+2024-03-10,owidbot,1,4,4
+2024-03-11,Mojmir Vinkler,1,58,3
+2024-03-11,Pablo Rosado,3,2250,38
+2024-03-11,owidbot,7,10,5
+2024-03-11,veronikasamborska1994,1,44,1
+2024-03-12,Pablo Rosado,2,534,1
+2024-03-12,owidbot,2,8,8
+2024-03-12,veronikasamborska1994,3,30,32
+2024-03-13,owidbot,2,7,7
+2024-03-14,Marigold,1,0,7
+2024-03-14,Mojmir Vinkler,1,163,0
+2024-03-14,owidbot,1,4,4
+2024-03-15,Fiona Spooner,1,158,5
+2024-03-15,Lucas Rodés-Guirao,2,3528,1412
+2024-03-15,Marigold,1,8,2
+2024-03-15,Pablo Rosado,1,95,30
+2024-03-15,owidbot,1,4,4
+2024-03-16,Lucas Rodés-Guirao,1,21,19
+2024-03-16,owidbot,2,10,10
+2024-03-17,owidbot,2,9,9
+2024-03-18,Lucas Rodés-Guirao,1,22,10
+2024-03-18,Marigold,2,7,4
+2024-03-18,Mojmir Vinkler,1,82,13
+2024-03-18,owidbot,2,8,8
+2024-03-19,Lucas Rodés-Guirao,1,71,21
+2024-03-19,owidbot,8,168,15
+2024-03-19,veronikasamborska1994,1,5,5
+2024-03-20,Fiona Spooner,1,1,1
+2024-03-20,Lucas Rodés-Guirao,1,57,8
+2024-03-20,Marigold,1,12,1
+2024-03-20,Pablo Arriagada,2,1469,2
+2024-03-20,owidbot,13,14,11
+2024-03-21,Lucas Rodés-Guirao,5,690,227
+2024-03-21,Pablo Arriagada,2,11,11
+2024-03-21,owidbot,5,76,10
+2024-03-22,Marigold,1,9,3
+2024-03-22,Pablo Rosado,2,14,2
+2024-03-22,owidbot,2,8,8
+2024-03-23,owidbot,2,8,8
+2024-03-24,owidbot,2,7,7
+2024-03-25,Lucas Rodés-Guirao,1,372,2
+2024-03-25,Marigold,1,11,1
+2024-03-25,Pablo Rosado,3,9898,366
+2024-03-25,owidbot,3,9,9
+2024-03-25,veronikasamborska1994,2,413,1
+2024-03-26,Mojmir Vinkler,2,48,5
+2024-03-26,Pablo Arriagada,2,3,3
+2024-03-26,owidbot,7,99,15
+2024-03-26,veronikasamborska1994,4,1617,129
+2024-03-27,Lucas Rodés-Guirao,1,1,1
+2024-03-27,Marigold,2,87,79
+2024-03-27,Mojmir Vinkler,2,122,38
+2024-03-27,Pablo Rosado,1,52,76
+2024-03-27,owidbot,2,8,8
+2024-03-28,Lucas Rodés-Guirao,1,17,2
+2024-03-28,Pablo Arriagada,1,318,0
+2024-03-28,Pablo Rosado,1,3207,52
+2024-03-28,owidbot,3,11,11
+2024-03-29,Pablo Rosado,1,2,3
+2024-03-29,owidbot,3,69,10
+2024-03-29,veronikasamborska1994,1,23,3
+2024-03-30,owidbot,2,10,10
+2024-03-31,owidbot,2,11,11
+2024-04-01,Pablo Rosado,3,5698,464
+2024-04-01,owidbot,1,6,6
+2024-04-02,Marigold,3,44,69
+2024-04-02,Mojmir Vinkler,1,172,66
+2024-04-02,Pablo Rosado,3,702,3
+2024-04-02,owidbot,2,15,15
+2024-04-02,veronikasamborska1994,2,246,2
+2024-04-03,Lucas Rodés-Guirao,1,1,1
+2024-04-03,Marigold,3,7,3
+2024-04-03,owidbot,3,72,12
+2024-04-03,veronikasamborska1994,2,548,4
+2024-04-04,Marigold,4,30,27
+2024-04-04,Pablo Rosado,1,393,2
+2024-04-04,owidbot,2,78,6
+2024-04-05,Pablo Rosado,1,2,0
+2024-04-05,owidbot,6,345,36
+2024-04-06,owidbot,2,10,10
+2024-04-07,owidbot,2,11,11
+2024-04-08,Fiona Spooner,1,4,1
+2024-04-08,Marigold,2,15,1
+2024-04-08,Mojmir Vinkler,1,19,1
+2024-04-08,owidbot,2,8,6
+2024-04-09,Marigold,1,6,1
+2024-04-09,Pablo Rosado,1,105,18
+2024-04-09,owidbot,2,14,17
+2024-04-10,Edouard Mathieu,2,7,0
+2024-04-10,Mojmir Vinkler,3,1595,624
+2024-04-10,Pablo Rosado,1,1325,14
+2024-04-10,owidbot,2,13,14
+2024-04-11,Marigold,2,7,6
+2024-04-11,Mojmir Vinkler,2,42,24
+2024-04-11,Pablo Arriagada,1,806,9
+2024-04-11,owidbot,4,97,10
+2024-04-12,Marigold,1,7,4
+2024-04-12,Mojmir Vinkler,1,39,4
+2024-04-12,owidbot,4,17,17
+2024-04-13,owidbot,2,10,10
+2024-04-14,Pablo Arriagada,2,3,3
+2024-04-14,owidbot,2,14,14
+2024-04-15,Marigold,1,1,4
+2024-04-15,Pablo Arriagada,1,4538,11
+2024-04-15,Pablo Rosado,2,448,48
+2024-04-15,owidbot,4,74,13
+2024-04-15,veronikasamborska1994,1,88,1
+2024-04-16,Fiona Spooner,1,233,1
+2024-04-16,Marigold,1,7,3
+2024-04-16,Mojmir Vinkler,2,16,18
+2024-04-16,Pablo Rosado,1,20,0
+2024-04-16,owidbot,2,15,18
+2024-04-17,Fiona Spooner,1,1,1
+2024-04-17,Marigold,2,17,4
+2024-04-17,Mojmir Vinkler,2,130,284
+2024-04-17,Pablo Arriagada,1,153,26
+2024-04-17,Pablo Rosado,1,3183,201
+2024-04-17,owidbot,8,136,73
+2024-04-18,Fiona Spooner,1,1788,0
+2024-04-18,Lucas Rodés-Guirao,2,999,8
+2024-04-18,Mojmir Vinkler,1,65,6
+2024-04-18,owidbot,3,13,13
+2024-04-19,Fiona Spooner,1,2,0
+2024-04-19,Marigold,1,8,1
+2024-04-19,Pablo Rosado,1,1782,22
+2024-04-19,owidbot,5,90,13
